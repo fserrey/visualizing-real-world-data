@@ -50,33 +50,6 @@ As there are several approaches to be taken, I am sure that this procedure can b
 
 
 
-
-
-
-
-
-
-
-
-
-
-You recently created a new company in the `GAMING industry`. The company will have the following scheme:
-
-- 
-
-As a data engineer you have asked all the employees to show their preferences on where to place the new office.
-Your 
-You have to found a place that more or less covers all the following requirements.
-Note that **it's impossible to cover all requirements**, so you have to prioritize at your glance.
-
-
-
-## How to deliver the project
-
-- You must justify your decision with tableau slides. Provide us the public tableau link inside a README.md
-  file at dir `module-2/project-mongodb-geospartial-queries`.
-- Provide `lat` and `long` for the new offices.
-
 ## Links & Resources
 
 - https://docs.mongodb.com/manual/geospatial-queries/
