@@ -29,6 +29,11 @@ The main points to consider are:
     
 ## What have I done?
 
+### Main files
+ - main_1_cleaning.ipynb
+ - main_2_geo.ipynb
+ - main_3_api_maps.ipynb
+
 As there are several approaches to be taken, I am sure that this procedure can be enhanced. However, so far I did the following:
 
 #### 1 Filtering dataset through MongoDB query
