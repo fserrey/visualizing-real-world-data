@@ -1,6 +1,4 @@
-# visualizing-real-world-data
-
-## Where is the best place to place my office?
+# Where is the best place to place my office?
 
 On this project, we aim to locate a proper place to develop our business finding the best environment for it. The goal is to place the **new company offices** in the best place for the company to grow. For this, we define the criteria we are following, a brand-new company in the gaming industry.
 
