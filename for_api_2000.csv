@@ -1,240 +1,240 @@
-,level_0,index,_id,category_code,country_code,founded_year,geoloc,latitude,longitude,name,number_of_employees,total_money_raised,total_offices,nearest_offices
-0,143,21,5d277baf5370f8e6fc94d8af,games_video,USA,2003,"{'type': 'Point', 'coordinates': [-122.400558, 37.788668]}",37.788668,-122.400558,hi5,100,$52M,1,36
-1,1,20,5d277baf5370f8e6fc94d8ae,web,USA,2006,"{'type': 'Point', 'coordinates': [-122.39071, 37.779507]}",37.779507,-122.39071,Eventbrite,200,$140M,1,32
-2,0,51,5d277baf5370f8e6fc94d8cd,enterprise,USA,2006,"{'type': 'Point', 'coordinates': [-122.158804, 37.43938]}",37.43938,-122.158804,Gigya,230,$69.8M,1,28
-3,57,139,5d277baf5370f8e6fc94d925,advertising,SGP,2007,"{'type': 'Point', 'coordinates': [103.8508327, 1.2821008]}",1.2821008,103.8508327,Videoplaza,70,€15.9M,5,28
-4,89,177,5d277baf5370f8e6fc94d94b,software,USA,2007,"{'type': 'Point', 'coordinates': [-84.058708, 34.070164]}",34.070164,-84.058708,Clearleap,75,$41.3M,1,28
-5,170,25,5d277baf5370f8e6fc94d8b3,web,USA,2006,"{'type': 'Point', 'coordinates': [-122.400729, 37.795555]}",37.795555,-122.400729,Weebly,70,$670k,1,28
-6,155,214,5d277baf5370f8e6fc94d970,games_video,USA,2009,"{'type': 'Point', 'coordinates': [-122.3399782, 47.6103008]}",47.6103008,-122.3399782,Z2Live,130,$6.5M,1,28
-7,20,67,5d277baf5370f8e6fc94d8dd,advertising,USA,2005,"{'type': 'Point', 'coordinates': [-97.731249, 30.378658]}",30.378658,-97.731249,Yodle,1000,$40M,5,28
-8,146,172,5d277baf5370f8e6fc94d946,network_hosting,USA,2004,"{'type': 'Point', 'coordinates': [-121.93393, 37.391198]}",37.391198,-121.93393,A10 Networks,500,$118M,1,27
-9,34,151,5d277baf5370f8e6fc94d931,search,USA,2007,"{'type': 'Point', 'coordinates': [-73.982596, 40.746332]}",40.746332,-73.982596,Conductor,55,$33.6M,1,27
-10,46,46,5d277baf5370f8e6fc94d8c8,ecommerce,USA,2005,"{'type': 'Point', 'coordinates': [-122.40414, 37.792968]}",37.792968,-122.40414,Blurb,150,$21.6M,1,27
-11,84,36,5d277baf5370f8e6fc94d8be,advertising,GBR,2004,"{'type': 'Point', 'coordinates': [-0.1229212, 51.5114403]}",51.5114403,-0.1229212,Adknowledge,300,$248M,9,27
-12,25,74,5d277baf5370f8e6fc94d8e4,games_video,USA,2011,"{'type': 'Point', 'coordinates': [-122.161523, 37.446823]}",37.446823,-122.161523,Social Gaming Network,100,$17.1M,2,27
-13,21,39,5d277baf5370f8e6fc94d8c1,advertising,FRA,2004,"{'type': 'Point', 'coordinates': [2.3797825, 48.8506065]}",48.8506065,2.3797825,Adknowledge,300,$248M,9,27
-14,125,137,5d277baf5370f8e6fc94d923,advertising,DEU,2007,"{'type': 'Point', 'coordinates': [13.3787413, 52.5372765]}",52.5372765,13.3787413,Videoplaza,70,€15.9M,5,27
-15,33,202,5d277baf5370f8e6fc94d964,enterprise,USA,2009,"{'type': 'Point', 'coordinates': [-78.8267112, 35.8535092]}",35.8535092,-78.8267112,Talari Networks,60,$45.1M,2,27
-16,150,70,5d277baf5370f8e6fc94d8e0,enterprise,USA,2007,"{'type': 'Point', 'coordinates': [-122.419204, 37.775196]}",37.775196,-122.419204,Heroku,80,$13M,1,27
-17,158,6,5d277baf5370f8e6fc94d8a0,games_video,USA,2005,"{'type': 'Point', 'coordinates': [-122.206893, 37.484619]}",37.484619,-122.206893,RockYou,106,$136M,1,27
-18,178,53,5d277baf5370f8e6fc94d8cf,advertising,USA,2006,"{'type': 'Point', 'coordinates': [-122.245087, 37.530893]}",37.530893,-122.245087,MyBuys,120,$40.8M,2,27
-19,191,84,5d277baf5370f8e6fc94d8ee,design,USA,2008,"{'type': 'Point', 'coordinates': [-122.4005983, 37.7955307]}",37.7955307,-122.4005983,99designs,100,$35M,3,27
-20,196,218,5d277baf5370f8e6fc94d974,software,USA,2003,"{'type': 'Point', 'coordinates': [-77.3563279, 38.9594124]}",38.9594124,-77.3563279,Bomgar,150,$11M,5,27
-21,4,190,5d277baf5370f8e6fc94d958,advertising,USA,2006,"{'type': 'Point', 'coordinates': [-105.278785, 40.058448]}",40.058448,-105.278785,Intela,70,$13.3M,4,27
-22,217,217,5d277baf5370f8e6fc94d973,software,USA,2003,"{'type': 'Point', 'coordinates': [-122.398126, 37.791128]}",37.791128,-122.398126,Bomgar,150,$11M,5,27
-23,221,113,5d277baf5370f8e6fc94d90b,advertising,USA,2006,"{'type': 'Point', 'coordinates': [-122.424975, 37.629393]}",37.629393,-122.424975,Adify,120,$27M,1,27
-24,144,28,5d277baf5370f8e6fc94d8b6,search,USA,2004,"{'type': 'Point', 'coordinates': [-122.406676, 37.766909]}",37.766909,-122.406676,Trulia,500,$255M,1,25
-25,154,148,5d277baf5370f8e6fc94d92e,games_video,USA,2008,"{'type': 'Point', 'coordinates': [-122.4015807, 37.7705096]}",37.7705096,-122.4015807,ngmoco,150,$44.8M,1,25
-26,160,116,5d277baf5370f8e6fc94d90e,software,USA,2004,"{'type': 'Point', 'coordinates': [-118.3952969, 33.9192583]}",33.9192583,-118.3952969,Velocify,125,$20.3M,1,25
-27,148,145,5d277baf5370f8e6fc94d92b,software,USA,2003,"{'type': 'Point', 'coordinates': [-122.422113, 37.630551]}",37.630551,-122.422113,Qumu,150,$24.8M,1,17
-28,31,206,5d277baf5370f8e6fc94d968,software,GBR,2005,"{'type': 'Point', 'coordinates': [-1.4629301, 53.3800107]}",53.3800107,-1.4629301,WANdisco,175,$45M,2,14
-29,151,37,5d277baf5370f8e6fc94d8bf,advertising,CAN,2004,"{'type': 'Point', 'coordinates': [-79.3953743, 43.6474554]}",43.6474554,-79.3953743,Adknowledge,300,$248M,9,14
-30,104,35,5d277baf5370f8e6fc94d8bd,advertising,USA,2004,"{'type': 'Point', 'coordinates': [-81.879069, 26.580095]}",26.580095,-81.879069,Adknowledge,300,$248M,9,14
-31,238,62,5d277baf5370f8e6fc94d8d8,advertising,USA,2005,"{'type': 'Point', 'coordinates': [-111.924855, 33.464377]}",33.464377,-111.924855,Yodle,1000,$40M,5,14
-32,3,26,5d277baf5370f8e6fc94d8b4,enterprise,USA,2004,"{'type': 'Point', 'coordinates': [-104.988123, 39.755092]}",39.755092,-104.988123,NewsGator,90,$39.3M,1,14
-33,232,211,5d277baf5370f8e6fc94d96d,mobile,USA,2006,"{'type': 'Point', 'coordinates': [-121.9780378, 37.552104]}",37.552104,-121.9780378,Mobifusion,51,$3.1M,1,13
-34,83,173,5d277baf5370f8e6fc94d947,enterprise,USA,2006,"{'type': 'Point', 'coordinates': [-122.087417, 37.418616]}",37.418616,-122.087417,SOASTA,100,$63.6M,1,13
-35,58,22,5d277baf5370f8e6fc94d8b0,mobile,SWE,2006,"{'type': 'Point', 'coordinates': [18.1582777, 59.3167843]}",59.3167843,18.1582777,Rebtel,75,$20M,1,13
-36,78,86,5d277baf5370f8e6fc94d8f0,design,AUS,2008,"{'type': 'Point', 'coordinates': [144.9868546, -37.8026587]}",-37.8026587,144.9868546,99designs,100,$35M,3,13
-37,141,99,5d277baf5370f8e6fc94d8fd,advertising,USA,2007,"{'type': 'Point', 'coordinates': [-122.288006, 37.555962]}",37.555962,-122.288006,Jivox,60,$25.6M,1,13
-38,94,169,5d277baf5370f8e6fc94d943,software,USA,2006,"{'type': 'Point', 'coordinates': [-74.001169, 40.718888]}",40.718888,-74.001169,ReverbNation,85,$5M,2,13
-39,126,161,5d277baf5370f8e6fc94d93b,web,CHN,2005,"{'type': 'Point', 'coordinates': [116.395833, 39.905556]}",39.905556,116.395833,Koolanoo Group,280,$32M,2,12
-40,107,57,5d277baf5370f8e6fc94d8d3,software,USA,2003,"{'type': 'Point', 'coordinates': [-122.390945, 37.78274]}",37.78274,-122.390945,Splunk,500,$40M,1,12
-41,28,205,5d277baf5370f8e6fc94d967,software,USA,2004,"{'type': 'Point', 'coordinates': [-122.331308, 47.611827]}",47.611827,-122.331308,Medio,90,$30M,1,12
-42,14,93,5d277baf5370f8e6fc94d8f7,enterprise,GBR,2006,"{'type': 'Point', 'coordinates': [-0.3016459, 51.4140631]}",51.4140631,-0.3016459,Vovici,100,$16.3M,2,12
-43,111,98,5d277baf5370f8e6fc94d8fc,advertising,USA,2003,"{'type': 'Point', 'coordinates': [-118.151542, 34.143885]}",34.143885,-118.151542,SupplyFrame,60,$15.5M,1,11
-44,70,192,5d277baf5370f8e6fc94d95a,enterprise,USA,2005,"{'type': 'Point', 'coordinates': [-77.340436, 38.946532]}",38.946532,-77.340436,Clarabridge,150,$84.3M,3,11
-45,133,129,5d277baf5370f8e6fc94d91b,games_video,USA,2006,"{'type': 'Point', 'coordinates': [-73.957968, 40.720764]}",40.720764,-73.957968,VBS TV,100,$10M,1,11
-46,92,104,5d277baf5370f8e6fc94d902,analytics,USA,2006,"{'type': 'Point', 'coordinates': [-73.986243, 40.745559]}",40.745559,-73.986243,Networked Insights,130,$38.4M,3,11
-47,181,65,5d277baf5370f8e6fc94d8db,games_video,FRA,2003,"{'type': 'Point', 'coordinates': [2.213749, 46.227638]}",46.227638,2.213749,Kewego,65,$19.4M,1,11
-48,166,233,5d277baf5370f8e6fc94d983,software,USA,2006,"{'type': 'Point', 'coordinates': [-96.9274, 33.0353]}",33.0353,-96.9274,FireScope,65,$9.91M,4,10
-49,109,160,5d277baf5370f8e6fc94d93a,analytics,USA,2006,"{'type': 'Point', 'coordinates': [-122.400346, 37.796843]}",37.796843,-122.400346,Demandbase,80,$33M,2,9
-50,99,15,5d277baf5370f8e6fc94d8a9,software,USA,2006,"{'type': 'Point', 'coordinates': [-77.3592746, 38.9590083]}",38.9590083,-77.3592746,spigit,120,$55.6M,3,8
-51,153,128,5d277baf5370f8e6fc94d91a,enterprise,BRA,2005,"{'type': 'Point', 'coordinates': [-43.954223, -19.815731]}",-19.815731,-43.954223,Samba Tech,60,$3M,1,8
-52,159,114,5d277baf5370f8e6fc94d90c,software,USA,2008,"{'type': 'Point', 'coordinates': [-119.306607, 37.269175]}",37.269175,-119.306607,New Relic,63,$175M,1,8
-53,36,55,5d277baf5370f8e6fc94d8d1,web,USA,2005,"{'type': 'Point', 'coordinates': [-121.97895, 37.399208]}",37.399208,-121.97895,Vobile,120,$10M,1,8
-54,73,73,5d277baf5370f8e6fc94d8e3,network_hosting,USA,2005,"{'type': 'Point', 'coordinates': [-122.300246, 37.553743]}",37.553743,-122.300246,fabrik,175,$51.3M,1,7
-55,43,195,5d277baf5370f8e6fc94d95d,software,USA,2004,"{'type': 'Point', 'coordinates': [-81.666101, 41.513652]}",41.513652,-81.666101,SparkBase,51,$10.5M,1,7
-56,11,117,5d277baf5370f8e6fc94d90f,advertising,USA,2008,"{'type': 'Point', 'coordinates': [6.124424, 46.223157]}",46.223157,6.124424,NewsCred,70,$21.8M,2,7
-57,142,50,5d277baf5370f8e6fc94d8cc,software,USA,2004,"{'type': 'Point', 'coordinates': [-122.006539, 37.332271]}",37.332271,-122.006539,Baynote,80,$27.8M,1,7
-58,108,43,5d277baf5370f8e6fc94d8c5,enterprise,USA,2003,"{'type': 'Point', 'coordinates': [-122.285714, 37.557637]}",37.557637,-122.285714,Zimbra,200,$14.5M,1,7
-59,5,136,5d277baf5370f8e6fc94d922,advertising,SWE,2007,"{'type': 'Point', 'coordinates': [18.0333601, 59.3351833]}",59.3351833,18.0333601,Videoplaza,70,€15.9M,5,7
-60,17,4,5d277baf5370f8e6fc94d89e,enterprise,USA,2004,"{'type': 'Point', 'coordinates': [-122.4016144, 37.7891086]}",37.7891086,-122.4016144,KickApps,72,$32M,4,6
-61,82,191,5d277baf5370f8e6fc94d959,enterprise,USA,2005,"{'type': 'Point', 'coordinates': [-122.402844, 37.791402]}",37.791402,-122.402844,Clarabridge,150,$84.3M,3,6
-62,24,216,5d277baf5370f8e6fc94d972,software,FRA,2003,"{'type': 'Point', 'coordinates': [2.2983373, 48.8752305]}",48.8752305,2.2983373,Bomgar,150,$11M,5,6
-63,19,41,5d277baf5370f8e6fc94d8c3,games_video,USA,2007,"{'type': 'Point', 'coordinates': [-118.456806, 34.031276]}",34.031276,-118.456806,hulu,153,$100M,1,6
-64,226,40,5d277baf5370f8e6fc94d8c2,advertising,CHN,2004,"{'type': 'Point', 'coordinates': [121.4770384, 31.222622]}",31.222622,121.4770384,Adknowledge,300,$248M,9,6
-65,47,168,5d277baf5370f8e6fc94d942,enterprise,USA,2008,"{'type': 'Point', 'coordinates': [-122.3497546, 37.5783417]}",37.5783417,-122.3497546,Cloudera,230,$141M,1,5
-66,149,52,5d277baf5370f8e6fc94d8ce,advertising,USA,2006,"{'type': 'Point', 'coordinates': [-122.08276, 37.388095]}",37.388095,-122.08276,TrialPay,100,$55.8M,1,5
-67,51,135,5d277baf5370f8e6fc94d921,advertising,DEU,2008,"{'type': 'Point', 'coordinates': [13.4124563, 52.5283614]}",52.5283614,13.4124563,plista,100,$3.8M,1,5
-68,197,181,5d277baf5370f8e6fc94d94f,advertising,USA,2007,"{'type': 'Point', 'coordinates': [-73.9763479, 40.756799]}",40.756799,-73.9763479,MediaMath,125,$26.9M,1,5
-69,52,236,5d277baf5370f8e6fc94d986,enterprise,USA,2006,"{'type': 'Point', 'coordinates': [-3.2151393, 55.9485591]}",55.9485591,-3.2151393,Maxymiser,250,£14M,1,5
-70,235,77,5d277baf5370f8e6fc94d8e7,web,USA,2006,"{'type': 'Point', 'coordinates': [-82.3230981, 29.6502461]}",29.6502461,-82.3230981,Grooveshark,113,$4.44M,1,5
-71,156,42,5d277baf5370f8e6fc94d8c4,games_video,SGP,2005,"{'type': 'Point', 'coordinates': [-122.343679, 37.580304]}",37.580304,-122.343679,mig33,100,$32.4M,1,5
-72,7,85,5d277baf5370f8e6fc94d8ef,web,USA,2006,"{'type': 'Point', 'coordinates': [-73.7258199, 40.8587524]}",40.8587524,-73.7258199,OLX,85,$28.5M,1,5
-73,203,126,5d277baf5370f8e6fc94d918,enterprise,USA,2005,"{'type': 'Point', 'coordinates': [-122.402021, 37.764169]}",37.764169,-122.402021,InsideView,150,$56.5M,1,4
-74,134,123,5d277baf5370f8e6fc94d915,web,USA,2007,"{'type': 'Point', 'coordinates': [-122.227765, 37.492685]}",37.492685,-122.227765,GreenNote,65,$4.2M,1,4
-75,75,141,5d277baf5370f8e6fc94d927,advertising,USA,2008,"{'type': 'Point', 'coordinates': [-73.986951, 40.756054]}",40.756054,-73.986951,Medialets,60,$28.4M,2,4
-76,74,212,5d277baf5370f8e6fc94d96e,ecommerce,BRA,2009,"{'type': 'Point', 'coordinates': [-46.6388182, -23.5489433]}",-23.5489433,-46.6388182,Brandsclub,140,$17M,1,4
-77,165,146,5d277baf5370f8e6fc94d92c,web,USA,2007,"{'type': 'Point', 'coordinates': [-122.4013624, 37.7893215]}",37.7893215,-122.4013624,Huddler,52,$22.8M,1,4
-78,12,12,5d277baf5370f8e6fc94d8a6,search,USA,2004,"{'type': 'Point', 'coordinates': [-122.0780632, 37.4219165]}",37.4219165,-122.0780632,Simply Hired,100,$22.3M,1,4
-79,173,171,5d277baf5370f8e6fc94d945,enterprise,USA,2003,"{'type': 'Point', 'coordinates': [-87.6371628, 41.8961282]}",41.8961282,-87.6371628,Model Metrics,120,$2.5M,1,4
-80,8,164,5d277baf5370f8e6fc94d93e,web,USA,2006,"{'type': 'Point', 'coordinates': [-111.643179, 40.250096]}",40.250096,-111.643179,FamilyLink,60,$3.65M,1,4
-81,54,197,5d277baf5370f8e6fc94d95f,software,USA,2003,"{'type': 'Point', 'coordinates': [-122.0887097, 37.4192309]}",37.4192309,-122.0887097,Adaptive Planning,65,$84.5M,1,4
-82,198,219,5d277baf5370f8e6fc94d975,software,USA,2003,"{'type': 'Point', 'coordinates': [-90.1633006, 32.416174]}",32.416174,-90.1633006,Bomgar,150,$11M,5,3
-83,189,56,5d277baf5370f8e6fc94d8d2,advertising,USA,2006,"{'type': 'Point', 'coordinates': [-83.733276, 42.277416]}",42.277416,-83.733276,MyBuys,120,$40.8M,2,3
-84,205,150,5d277baf5370f8e6fc94d930,software,USA,2007,"{'type': 'Point', 'coordinates': [-122.4007846, 37.7899027]}",37.7899027,-122.4007846,Lyft,180,$82.5M,2,3
-85,132,209,5d277baf5370f8e6fc94d96b,advertising,USA,2005,"{'type': 'Point', 'coordinates': [-73.8731834, 41.0409527]}",41.0409527,-73.8731834,House Party,70,$9.95M,1,3
-86,187,100,5d277baf5370f8e6fc94d8fe,web,USA,2006,"{'type': 'Point', 'coordinates': [-122.369676, 37.592584]}",37.592584,-122.369676,ScanCafe,350,$4M,1,3
-87,201,132,5d277baf5370f8e6fc94d91e,web,USA,2003,"{'type': 'Point', 'coordinates': [-122.332085, 47.601803]}",47.601803,-122.332085,Photobucket,100,$33.7M,1,3
-88,23,54,5d277baf5370f8e6fc94d8d0,web,USA,2005,"{'type': 'Point', 'coordinates': [-122.160671, 37.445326]}",37.445326,-122.160671,EchoSign,100,$8.5M,1,3
-89,97,30,5d277baf5370f8e6fc94d8b8,advertising,USA,2004,"{'type': 'Point', 'coordinates': [-94.597896, 39.044694]}",39.044694,-94.597896,Adknowledge,300,$248M,9,3
-90,32,180,5d277baf5370f8e6fc94d94e,software,DEU,2005,"{'type': 'Point', 'coordinates': [11.0823953, 49.4605351]}",49.4605351,11.0823953,Open-Xchange,100,$37.8M,3,3
-91,71,68,5d277baf5370f8e6fc94d8de,ecommerce,USA,2005,"{'type': 'Point', 'coordinates': [-73.983268, 40.694731]}",40.694731,-73.983268,Etsy,300,$91.7M,1,3
-92,120,64,5d277baf5370f8e6fc94d8da,mobile,USA,2006,"{'type': 'Point', 'coordinates': [-122.230116, 37.486368]}",37.486368,-122.230116,Qik,60,$14.8M,1,3
-93,49,13,5d277baf5370f8e6fc94d8a7,web,USA,2005,"{'type': 'Point', 'coordinates': [-122.178557, 37.479952]}",37.479952,-122.178557,oDesk,120,$44M,1,3
-94,210,153,5d277baf5370f8e6fc94d933,advertising,GBR,2006,"{'type': 'Point', 'coordinates': [-0.1230127, 51.5139758]}",51.5139758,-0.1230127,Intela,70,$13.3M,4,3
-95,169,119,5d277baf5370f8e6fc94d911,advertising,BGD,2008,"{'type': 'Point', 'coordinates': [90.407143, 23.709921]}",23.709921,90.407143,NewsCred,70,$21.8M,2,3
-96,218,79,5d277baf5370f8e6fc94d8e9,software,USA,2005,"{'type': 'Point', 'coordinates': [-121.9479223, 37.3208403]}",37.3208403,-121.9479223,Bunchball,60,$12.5M,1,3
-97,59,60,5d277baf5370f8e6fc94d8d6,advertising,USA,2005,"{'type': 'Point', 'coordinates': [-84.03398, 34.105226]}",34.105226,-84.03398,Yodle,1000,$40M,5,3
-98,79,71,5d277baf5370f8e6fc94d8e1,web,USA,2006,"{'type': 'Point', 'coordinates': [-121.918319, 37.383844]}",37.383844,-121.918319,Mixbook,90,$11M,1,3
-99,214,106,5d277baf5370f8e6fc94d904,web,USA,2007,"{'type': 'Point', 'coordinates': [-122.500111, 37.868002]}",37.868002,-122.500111,Glassdoor,180,$91.5M,1,3
-100,81,159,5d277baf5370f8e6fc94d939,advertising,GBR,2006,"{'type': 'Point', 'coordinates': [-0.1230127, 51.5139758]}",51.5139758,-0.1230127,Intela,70,$13.3M,4,3
-101,124,66,5d277baf5370f8e6fc94d8dc,enterprise,USA,2007,"{'type': 'Point', 'coordinates': [-71.137784, 42.524527]}",42.524527,-71.137784,Acquia,400,$68.5M,1,2
-102,171,188,5d277baf5370f8e6fc94d956,enterprise,USA,2006,"{'type': 'Point', 'coordinates': [-122.677001, 45.519179]}",45.519179,-122.677001,Elemental Technologies,130,$27.6M,1,2
-103,10,112,5d277baf5370f8e6fc94d90a,games_video,USA,2007,"{'type': 'Point', 'coordinates': [-118.343791, 34.085749]}",34.085749,-118.343791,Modern Feed,123,$3M,1,2
-104,168,155,5d277baf5370f8e6fc94d935,web,USA,2008,"{'type': 'Point', 'coordinates': [-122.3999719, 37.7870923]}",37.7870923,-122.3999719,Lolapps,65,$4M,2,2
-105,167,201,5d277baf5370f8e6fc94d963,enterprise,USA,2009,"{'type': 'Point', 'coordinates': [-121.949417, 37.317735]}",37.317735,-121.949417,Talari Networks,60,$45.1M,2,2
-106,161,183,5d277baf5370f8e6fc94d951,mobile,USA,2004,"{'type': 'Point', 'coordinates': [-122.493561, 37.862592]}",37.862592,-122.493561,mFoundry,160,$40.3M,1,2
-107,123,199,5d277baf5370f8e6fc94d961,software,USA,2004,"{'type': 'Point', 'coordinates': [-121.915594, 37.367838]}",37.367838,-121.915594,Quantum Secure,160,$3.54M,1,2
-108,183,58,5d277baf5370f8e6fc94d8d4,advertising,USA,2005,"{'type': 'Point', 'coordinates': [-73.9918126, 40.742459]}",40.742459,-73.9918126,Yodle,1000,$40M,5,2
-109,13,96,5d277baf5370f8e6fc94d8fa,enterprise,USA,2005,"{'type': 'Point', 'coordinates': [-121.921532, 37.694202]}",37.694202,-121.921532,Workday,900,$175M,1,2
-110,152,232,5d277baf5370f8e6fc94d982,analytics,USA,2005,"{'type': 'Point', 'coordinates': [-73.985647, 40.754937]}",40.754937,-73.985647,OpTier,150,$77.5M,1,2
-111,127,228,5d277baf5370f8e6fc94d97e,software,ISR,2004,"{'type': 'Point', 'coordinates': [34.8824253, 32.1980455]}",32.1980455,34.8824253,Pontis,105,$34.7M,2,2
-112,15,213,5d277baf5370f8e6fc94d96f,mobile,USA,2007,"{'type': 'Point', 'coordinates': [-77.038605, 38.814329]}",38.814329,-77.038605,RideCharge,75,$8.6M,1,2
-113,188,125,5d277baf5370f8e6fc94d917,advertising,USA,2008,"{'type': 'Point', 'coordinates': [-122.4011706, 37.7911186]}",37.7911186,-122.4011706,Bizo,66,$28.5M,1,2
-114,147,103,5d277baf5370f8e6fc94d901,ecommerce,USA,2010,"{'type': 'Point', 'coordinates': [-118.243425, 34.052187]}",34.052187,-118.243425,Magento,275,$22.5M,1,2
-115,179,38,5d277baf5370f8e6fc94d8c0,advertising,DEU,2004,"{'type': 'Point', 'coordinates': [11.5582609, 48.1635092]}",48.1635092,11.5582609,Adknowledge,300,$248M,9,2
-116,145,81,5d277baf5370f8e6fc94d8eb,software,USA,2004,"{'type': 'Point', 'coordinates': [-121.987661, 37.386774]}",37.386774,-121.987661,Evernote,280,$251M,1,2
-117,140,45,5d277baf5370f8e6fc94d8c7,biotech,USA,2006,"{'type': 'Point', 'coordinates': [-95.712891, 37.09024]}",37.09024,-95.712891,23andMe,80,$161M,1,2
-118,190,170,5d277baf5370f8e6fc94d944,web,USA,2008,"{'type': 'Point', 'coordinates': [-122.3999719, 37.7870923]}",37.7870923,-122.3999719,Lolapps,65,$4M,2,2
-119,102,178,5d277baf5370f8e6fc94d94c,enterprise,USA,2007,"{'type': 'Point', 'coordinates': [-122.4006831, 37.7898499]}",37.7898499,-122.4006831,Twilio,100,$104M,1,2
-120,192,2,5d277baf5370f8e6fc94d89c,enterprise,USA,2004,"{'type': 'Point', 'coordinates': [-118.468707, 33.991101]}",33.991101,-118.468707,KickApps,72,$32M,4,2
-121,208,142,5d277baf5370f8e6fc94d928,enterprise,USA,2006,"{'type': 'Point', 'coordinates': [-122.2997532, 37.5552776]}",37.5552776,-122.2997532,Appirio,500,$80.7M,1,2
-122,37,204,5d277baf5370f8e6fc94d966,software,USA,2005,"{'type': 'Point', 'coordinates': [-121.966395, 37.769205]}",37.769205,-121.966395,WANdisco,175,$45M,2,2
-123,42,226,5d277baf5370f8e6fc94d97c,software,GBR,2003,"{'type': 'Point', 'coordinates': [-0.1424094, 51.5209358]}",51.5209358,-0.1424094,Tribold,106,$28.1M,1,2
-124,53,31,5d277baf5370f8e6fc94d8b9,advertising,USA,2004,"{'type': 'Point', 'coordinates': [-73.992463, 40.748901]}",40.748901,-73.992463,Adknowledge,300,$248M,9,2
-125,55,87,5d277baf5370f8e6fc94d8f1,software,USA,2005,"{'type': 'Point', 'coordinates': [-87.750643, 42.040851]}",42.040851,-87.750643,Ifbyphone,90,$30.3M,1,2
-126,227,29,5d277baf5370f8e6fc94d8b7,advertising,USA,2006,"{'type': 'Point', 'coordinates': [-122.286493, 37.836957]}",37.836957,-122.286493,TubeMogul,230,$53.2M,1,2
-127,64,207,5d277baf5370f8e6fc94d969,enterprise,USA,2006,"{'type': 'Point', 'coordinates': [-122.334732, 47.544341]}",47.544341,-122.334732,Skytap,200,$23M,1,2
-128,220,8,5d277baf5370f8e6fc94d8a2,network_hosting,USA,2006,"{'type': 'Point', 'coordinates': [-71.076869, 42.350571]}",42.350571,-71.076869,Carbonite,68,$66M,1,2
-129,72,5,5d277baf5370f8e6fc94d89f,enterprise,GBR,2004,"{'type': 'Point', 'coordinates': [-0.1356235, 51.5094731]}",51.5094731,-0.1356235,KickApps,72,$32M,4,2
-130,172,88,5d277baf5370f8e6fc94d8f2,design,DEU,2008,"{'type': 'Point', 'coordinates': [13.4469031, 52.4986199]}",52.4986199,13.4469031,99designs,100,$35M,3,2
-131,106,166,5d277baf5370f8e6fc94d940,ecommerce,USA,2003,"{'type': 'Point', 'coordinates': [-122.410752, 37.763293]}",37.763293,-122.410752,Vinfolio,68,$10.6M,1,2
-132,199,97,5d277baf5370f8e6fc94d8fb,software,USA,2007,"{'type': 'Point', 'coordinates': [-122.2709868, 37.5596277]}",37.5596277,-122.2709868,Zuora,250,$128M,1,2
-133,113,176,5d277baf5370f8e6fc94d94a,software,USA,2006,"{'type': 'Point', 'coordinates': [-78.904075, 36.002893]}",36.002893,-78.904075,ReverbNation,85,$5M,2,2
-134,103,131,5d277baf5370f8e6fc94d91d,enterprise,USA,2004,"{'type': 'Point', 'coordinates': [-122.05074, 37.316653]}",37.316653,-122.05074,NextBio,75,$16.1M,1,2
-135,176,174,5d277baf5370f8e6fc94d948,software,USA,2005,"{'type': 'Point', 'coordinates': [-73.8625452, 41.0662835]}",41.0662835,-73.8625452,Open-Xchange,100,$37.8M,3,1
-136,195,108,5d277baf5370f8e6fc94d906,software,USA,2006,"{'type': 'Point', 'coordinates': [-122.301385, 37.5583]}",37.5583,-122.301385,Marketo,260,$108M,1,1
-137,228,90,5d277baf5370f8e6fc94d8f4,software,USA,2004,"{'type': 'Point', 'coordinates': [-117.8587, 33.676444]}",33.676444,-117.8587,Kareo,250,$51.4M,1,1
-138,229,130,5d277baf5370f8e6fc94d91c,enterprise,USA,2003,"{'type': 'Point', 'coordinates': [-122.246867, 37.506272]}",37.506272,-122.246867,MarkLogic,240,$71.2M,1,1
-139,177,61,5d277baf5370f8e6fc94d8d7,advertising,USA,2005,"{'type': 'Point', 'coordinates': [-80.916109, 35.139441]}",35.139441,-80.916109,Yodle,1000,$40M,5,1
-140,230,9,5d277baf5370f8e6fc94d8a3,advertising,USA,2005,"{'type': 'Point', 'coordinates': [-122.325248, 37.561877]}",37.561877,-122.325248,Conduit,215,$110M,1,1
-141,175,163,5d277baf5370f8e6fc94d93d,enterprise,USA,2007,"{'type': 'Point', 'coordinates': [-122.012808, 37.383526]}",37.383526,-122.012808,RiseSmart,100,$12.6M,1,1
-142,224,115,5d277baf5370f8e6fc94d90d,analytics,USA,2005,"{'type': 'Point', 'coordinates': [-122.111711, 37.371908]}",37.371908,-122.111711,Talend,400,$102M,1,1
-143,174,33,5d277baf5370f8e6fc94d8bb,advertising,USA,2004,"{'type': 'Point', 'coordinates': [-122.401406, 37.78866]}",37.78866,-122.401406,Adknowledge,300,$248M,9,1
-144,231,63,5d277baf5370f8e6fc94d8d9,software,USA,2006,"{'type': 'Point', 'coordinates': [-71.118487, 42.375392]}",42.375392,-71.118487,HubSpot,650,$131M,1,1
-145,194,193,5d277baf5370f8e6fc94d95b,enterprise,GBR,2005,"{'type': 'Point', 'coordinates': [-0.2617681, 51.4918451]}",51.4918451,-0.2617681,Clarabridge,150,$84.3M,3,1
-146,233,10,5d277baf5370f8e6fc94d8a4,network_hosting,USA,2005,"{'type': 'Point', 'coordinates': [-122.143701, 37.425801]}",37.425801,-122.143701,Box,950,$409M,1,1
-147,234,133,5d277baf5370f8e6fc94d91f,advertising,USA,2008,"{'type': 'Point', 'coordinates': [-122.419204, 37.775196]}",37.775196,-122.419204,Medialets,60,$28.4M,2,1
-148,193,101,5d277baf5370f8e6fc94d8ff,advertising,USA,2006,"{'type': 'Point', 'coordinates': [-111.780243, 40.358294]}",40.358294,-111.780243,OrangeSoda,160,$7.5M,1,1
-149,236,144,5d277baf5370f8e6fc94d92a,ecommerce,USA,2007,"{'type': 'Point', 'coordinates': [-122.403175, 37.797435]}",37.797435,-122.403175,Minted,115,$52.7M,1,1
-150,237,3,5d277baf5370f8e6fc94d89d,enterprise,USA,2004,"{'type': 'Point', 'coordinates': [-73.9843328, 40.7516611]}",40.7516611,-73.9843328,KickApps,72,$32M,4,1
-151,225,120,5d277baf5370f8e6fc94d912,software,USA,2004,"{'type': 'Point', 'coordinates': [-122.103076, 37.431941]}",37.431941,-122.103076,Boardwalktech,75,$500k,1,1
-152,202,222,5d277baf5370f8e6fc94d978,advertising,USA,2006,"{'type': 'Point', 'coordinates': [-76.581864, 39.281734]}",39.281734,-76.581864,Millennial Media,137,$240M,1,1
-153,223,32,5d277baf5370f8e6fc94d8ba,advertising,USA,2004,"{'type': 'Point', 'coordinates': [-121.948399, 37.32052]}",37.32052,-121.948399,BlueLithium,135,$11.5M,1,1
-154,186,231,5d277baf5370f8e6fc94d981,software,USA,2006,"{'type': 'Point', 'coordinates': [-118.012553, 33.664705]}",33.664705,-118.012553,FireScope,65,$9.91M,4,1
-155,204,220,5d277baf5370f8e6fc94d976,enterprise,USA,2006,"{'type': 'Point', 'coordinates': [-122.0595623, 37.3973018]}",37.3973018,-122.0595623,Axcient,150,$64.2M,1,1
-156,206,14,5d277baf5370f8e6fc94d8a8,web,USA,2006,"{'type': 'Point', 'coordinates': [-122.406676, 37.766909]}",37.766909,-122.406676,Flixster,75,$7.18M,1,1
-157,207,127,5d277baf5370f8e6fc94d919,enterprise,CAN,2004,"{'type': 'Point', 'coordinates': [-79.381254, 43.65101]}",43.65101,-79.381254,Blueprint Software Systems,100,$30.2M,1,1
-158,185,19,5d277baf5370f8e6fc94d8ad,games_video,USA,2007,"{'type': 'Point', 'coordinates': [-73.995625, 40.726155]}",40.726155,-73.995625,Livestream,120,$14.7M,1,1
-159,184,225,5d277baf5370f8e6fc94d97b,ecommerce,GBR,2005,"{'type': 'Point', 'coordinates': [-0.172364, 51.543337]}",51.543337,-0.172364,Autoquake,100,$39.9M,1,1
-160,182,95,5d277baf5370f8e6fc94d8f9,enterprise,USA,2006,"{'type': 'Point', 'coordinates': [-77.434128, 38.983393]}",38.983393,-77.434128,Vovici,100,$16.3M,2,1
-161,209,111,5d277baf5370f8e6fc94d909,software,USA,2008,"{'type': 'Point', 'coordinates': [-122.419204, 37.775196]}",37.775196,-122.419204,GitHub,106,$100M,1,1
-162,211,105,5d277baf5370f8e6fc94d903,analytics,USA,2006,"{'type': 'Point', 'coordinates': [-72.5254318, 41.278528]}",41.278528,-72.5254318,Networked Insights,130,$38.4M,3,1
-163,212,215,5d277baf5370f8e6fc94d971,software,USA,2003,"{'type': 'Point', 'coordinates': [-84.17173, 34.057519]}",34.057519,-84.17173,Bomgar,150,$11M,5,1
-164,213,11,5d277baf5370f8e6fc94d8a5,web,USA,2005,"{'type': 'Point', 'coordinates': [-122.301534, 37.553121]}",37.553121,-122.301534,Zvents,55,$31.2M,1,1
-165,180,59,5d277baf5370f8e6fc94d8d5,enterprise,USA,2008,"{'type': 'Point', 'coordinates': [-71.05781, 42.35892]}",42.35892,-71.05781,Cloudant,70,$18.3M,1,1
-166,215,223,5d277baf5370f8e6fc94d979,ecommerce,USA,2003,"{'type': 'Point', 'coordinates': [-84.300914, 34.046788]}",34.046788,-84.300914,OfferWire,65,$3.5M,2,1
-167,216,203,5d277baf5370f8e6fc94d965,advertising,USA,2007,"{'type': 'Point', 'coordinates': [-71.056605, 42.354257]}",42.354257,-71.056605,WordStream,90,$16.3M,1,1
-168,6,165,5d277baf5370f8e6fc94d93f,software,USA,2005,"{'type': 'Point', 'coordinates': [-122.161287, 37.444098]}",37.444098,-122.161287,Nexenta Systems,200,$49.9M,1,1
-169,219,102,5d277baf5370f8e6fc94d900,analytics,USA,2006,"{'type': 'Point', 'coordinates': [-87.634173, 41.879979]}",41.879979,-87.634173,Networked Insights,130,$38.4M,3,1
-170,200,17,5d277baf5370f8e6fc94d8ab,software,GBR,2006,"{'type': 'Point', 'coordinates': [-0.1394759, 51.5170385]}",51.5170385,-0.1394759,spigit,120,$55.6M,3,1
-171,2,167,5d277baf5370f8e6fc94d941,enterprise,USA,2004,"{'type': 'Point', 'coordinates': [-121.967223, 37.369445]}",37.369445,-121.967223,Apigee,65,$107M,1,1
-172,222,69,5d277baf5370f8e6fc94d8df,network_hosting,DEU,2003,"{'type': 'Point', 'coordinates': [9.98793, 53.555554]}",53.555554,9.98793,XING,500,€5.7M,1,1
-173,135,138,5d277baf5370f8e6fc94d924,advertising,ESP,2007,"{'type': 'Point', 'coordinates': [-3.6923285, 40.4596242]}",40.4596242,-3.6923285,Videoplaza,70,€15.9M,5,1
-174,164,72,5d277baf5370f8e6fc94d8e2,advertising,USA,2007,"{'type': 'Point', 'coordinates': [-118.243425, 34.052187]}",34.052187,-118.243425,GumGum,55,$10.8M,1,1
-175,91,230,5d277baf5370f8e6fc94d980,software,ARG,2004,"{'type': 'Point', 'coordinates': [-58.4541925, -34.5631882]}",-34.5631882,-58.4541925,Pontis,105,$34.7M,2,1
-176,88,189,5d277baf5370f8e6fc94d957,software,USA,2003,"{'type': 'Point', 'coordinates': [-121.970505, 37.3821368]}",37.3821368,-121.970505,Packet Design,60,$2.8M,1,1
-177,87,156,5d277baf5370f8e6fc94d936,network_hosting,USA,2004,"{'type': 'Point', 'coordinates': [-122.080843, 37.390918]}",37.390918,-122.080843,Centrify,160,$52M,2,1
-178,86,149,5d277baf5370f8e6fc94d92f,network_hosting,USA,2004,"{'type': 'Point', 'coordinates': [-122.080843, 37.390918]}",37.390918,-122.080843,Centrify,160,$52M,2,1
-179,85,107,5d277baf5370f8e6fc94d905,ecommerce,USA,2007,"{'type': 'Point', 'coordinates': [-73.9954585, 40.7384997]}",40.7384997,-73.9954585,Bonobos,150,$74.7M,1,1
-180,26,185,5d277baf5370f8e6fc94d953,enterprise,USA,2007,"{'type': 'Point', 'coordinates': [-73.782775, 42.856515]}",42.856515,-73.782775,Apprenda,51,$31M,1,1
-181,80,0,5d277baf5370f8e6fc94d89a,search,USA,2006,"{'type': 'Point', 'coordinates': [-122.395289, 37.778613]}",37.778613,-122.395289,Powerset,60,$22.5M,1,1
-182,77,175,5d277baf5370f8e6fc94d949,software,DEU,2005,"{'type': 'Point', 'coordinates': [7.850863, 51.029415]}",51.029415,7.850863,Open-Xchange,100,$37.8M,3,1
-183,76,238,5d277baf5370f8e6fc94d988,web,USA,2008,"{'type': 'Point', 'coordinates': [-73.9900984, 40.7450497]}",40.7450497,-73.9900984,StyleCaster,60,$5M,1,1
-184,69,179,5d277baf5370f8e6fc94d94d,web,DNK,2007,"{'type': 'Point', 'coordinates': [12.5605372, 55.6739617]}",55.6739617,12.5605372,Trustpilot,100,$18.4M,1,1
-185,68,48,5d277baf5370f8e6fc94d8ca,web,USA,2005,"{'type': 'Point', 'coordinates': [-122.421344, 37.744274]}",37.744274,-122.421344,Automattic,200,$30.6M,1,1
-186,67,154,5d277baf5370f8e6fc94d934,analytics,USA,2006,"{'type': 'Point', 'coordinates': [-122.400346, 37.796843]}",37.796843,-122.400346,Demandbase,80,$33M,2,1
-187,66,92,5d277baf5370f8e6fc94d8f6,web,USA,2007,"{'type': 'Point', 'coordinates': [-122.419204, 37.775196]}",37.775196,-122.419204,Clickpass,90,$20k,1,1
-188,65,110,5d277baf5370f8e6fc94d908,ecommerce,ESP,2006,"{'type': 'Point', 'coordinates': [2.1299487, 41.388769]}",41.388769,2.1299487,Trovit,56,€600k,1,1
-189,63,16,5d277baf5370f8e6fc94d8aa,software,USA,2006,"{'type': 'Point', 'coordinates': [-121.8731805, 37.6637279]}",37.6637279,-121.8731805,spigit,120,$55.6M,3,1
-190,62,122,5d277baf5370f8e6fc94d914,analytics,USA,2004,"{'type': 'Point', 'coordinates': [-94.159452, 45.560899]}",45.560899,-94.159452,eBureau,55,$38M,1,1
-191,61,229,5d277baf5370f8e6fc94d97f,web,DEU,2005,"{'type': 'Point', 'coordinates': [13.3883606, 52.5092312]}",52.5092312,13.3883606,My-Hammer,70,$3.2M,1,1
-192,60,143,5d277baf5370f8e6fc94d929,analytics,USA,2007,"{'type': 'Point', 'coordinates': [-122.4020593, 37.7797255]}",37.7797255,-122.4020593,Kontagent,80,$17.5M,1,1
-193,27,109,5d277baf5370f8e6fc94d907,web,USA,2004,"{'type': 'Point', 'coordinates': [-73.983754, 40.761855]}",40.761855,-73.983754,Cellfish,220,$60M,1,1
-194,56,157,5d277baf5370f8e6fc94d937,enterprise,USA,2005,"{'type': 'Point', 'coordinates': [-71.1404961, 42.3988457]}",42.3988457,-71.1404961,Dataupia,60,$41M,1,1
-195,50,208,5d277baf5370f8e6fc94d96a,software,USA,2007,"{'type': 'Point', 'coordinates': [-122.68038, 45.5309644]}",45.5309644,-122.68038,Jama Software,103,$13M,1,1
-196,48,186,5d277baf5370f8e6fc94d954,games_video,USA,2003,"{'type': 'Point', 'coordinates': [-122.0216271, 37.4123706]}",37.4123706,-122.0216271,RGB Networks,125,$52M,1,1
-197,45,44,5d277baf5370f8e6fc94d8c6,mobile,ESP,2006,"{'type': 'Point', 'coordinates': [-3.632687, 40.530724]}",40.530724,-3.632687,Fon,100,€44M,1,1
-198,44,140,5d277baf5370f8e6fc94d926,software,USA,2007,"{'type': 'Point', 'coordinates': [12.568116, 55.676294]}",55.676294,12.568116,Zendesk,400,$85.5M,1,1
-199,41,89,5d277baf5370f8e6fc94d8f3,advertising,USA,2008,"{'type': 'Point', 'coordinates': [-122.397759, 37.787183]}",37.787183,-122.397759,LiveRail,110,$12M,1,1
-200,40,75,5d277baf5370f8e6fc94d8e5,web,USA,2003,"{'type': 'Point', 'coordinates': [-74.006196, 40.725883]}",40.725883,-74.006196,TheLadders,110,$7.25M,1,1
-201,39,80,5d277baf5370f8e6fc94d8ea,enterprise,USA,2006,"{'type': 'Point', 'coordinates': [-117.114827, 32.912063]}",32.912063,-117.114827,Covario,100,$16M,1,1
-202,38,24,5d277baf5370f8e6fc94d8b2,web,USA,2004,"{'type': 'Point', 'coordinates': [-122.0727749, 37.3927975]}",37.3927975,-122.0727749,IMVU,150,$29M,1,1
-203,35,221,5d277baf5370f8e6fc94d977,enterprise,USA,2004,"{'type': 'Point', 'coordinates': [-122.404113, 37.789471]}",37.789471,-122.404113,Birst,150,$64M,1,1
-204,29,76,5d277baf5370f8e6fc94d8e6,games_video,USA,2011,"{'type': 'Point', 'coordinates': [-118.4054182, 34.0698494]}",34.0698494,-118.4054182,Social Gaming Network,100,$17.1M,2,1
-205,90,118,5d277baf5370f8e6fc94d910,games_video,DEU,2006,"{'type': 'Point', 'coordinates': [6.921546, 50.945289]}",50.945289,6.921546,sevenload,67,€25M,1,1
-206,93,162,5d277baf5370f8e6fc94d93c,advertising,USA,2007,"{'type': 'Point', 'coordinates': [-111.9396, 33.426418]}",33.426418,-111.9396,FetchBack,100,$1M,1,1
-207,163,187,5d277baf5370f8e6fc94d955,analytics,USA,2008,"{'type': 'Point', 'coordinates': [-122.143368, 37.4280877]}",37.4280877,-122.143368,Silver Tail Systems,90,$22.1M,1,1
-208,95,198,5d277baf5370f8e6fc94d960,web,PAK,2003,"{'type': 'Point', 'coordinates': [-121.9303616, 37.3015115]}",37.3015115,-121.9303616,Naseeb Networks,100,$2M,1,1
-209,162,158,5d277baf5370f8e6fc94d938,software,USA,2007,"{'type': 'Point', 'coordinates': [-122.4007846, 37.7899027]}",37.7899027,-122.4007846,Lyft,180,$82.5M,2,1
-210,9,27,5d277baf5370f8e6fc94d8b5,advertising,USA,2005,"{'type': 'Point', 'coordinates': [-122.39323, 37.710677]}",37.710677,-122.39323,Greystripe,90,$17.6M,1,1
-211,157,124,5d277baf5370f8e6fc94d916,analytics,USA,2003,"{'type': 'Point', 'coordinates': [-122.252115, 37.538418]}",37.538418,-122.252115,Vindicia,100,$37.6M,1,1
-212,16,23,5d277baf5370f8e6fc94d8b1,network_hosting,USA,2004,"{'type': 'Point', 'coordinates': [-121.935688, 37.288974]}",37.288974,-121.935688,Hightail,200,$82.7M,1,1
-213,18,18,5d277baf5370f8e6fc94d8ac,software,USA,2005,"{'type': 'Point', 'coordinates': [-97.717667, 30.407545]}",30.407545,-97.717667,Bazaarvoice,600,$131M,1,1
-214,139,91,5d277baf5370f8e6fc94d8f5,web,USA,2006,"{'type': 'Point', 'coordinates': [-111.7276347, 40.3310529]}",40.3310529,-111.7276347,Footnote,66,$10M,1,1
-215,138,121,5d277baf5370f8e6fc94d913,advertising,USA,2007,"{'type': 'Point', 'coordinates': [-118.3826743, 34.0815238]}",34.0815238,-118.3826743,SocialVibe,80,$43.9M,1,1
-216,137,196,5d277baf5370f8e6fc94d95e,web,USA,2004,"{'type': 'Point', 'coordinates': [-122.3927145, 37.7887135]}",37.7887135,-122.3927145,Double Fusion,80,$59M,1,1
-217,136,182,5d277baf5370f8e6fc94d950,search,CAN,2006,"{'type': 'Point', 'coordinates': [-122.9153695, 49.2599284]}",49.2599284,-122.9153695,Canpages,400,$110M,1,1
-218,30,152,5d277baf5370f8e6fc94d932,advertising,USA,2006,"{'type': 'Point', 'coordinates': [-105.278785, 40.058448]}",40.058448,-105.278785,Intela,70,$13.3M,4,1
-219,131,184,5d277baf5370f8e6fc94d952,software,USA,2003,"{'type': 'Point', 'coordinates': [-122.3545086, 47.6504518]}",47.6504518,-122.3545086,Tableau Software,92,$15M,1,1
-220,130,49,5d277baf5370f8e6fc94d8cb,mobile,USA,2003,"{'type': 'Point', 'coordinates': [-121.932962, 37.285133]}",37.285133,-121.932962,Firetide,100,$39.8M,1,1
-221,129,234,5d277baf5370f8e6fc94d984,software,AUS,2006,"{'type': 'Point', 'coordinates': [151.207114, -33.867139]}",-33.867139,151.207114,FireScope,65,$9.91M,4,1
-222,128,224,5d277baf5370f8e6fc94d97a,ecommerce,USA,2003,"{'type': 'Point', 'coordinates': [-80.3821092, 27.6476577]}",27.6476577,-80.3821092,OfferWire,65,$3.5M,2,1
-223,122,7,5d277baf5370f8e6fc94d8a1,mobile,USA,2005,"{'type': 'Point', 'coordinates': [-122.0899512, 37.4233896]}",37.4233896,-122.0899512,Jajah,110,$33M,1,1
-224,121,78,5d277baf5370f8e6fc94d8e8,advertising,USA,2004,"{'type': 'Point', 'coordinates': [-73.984268, 40.743662]}",40.743662,-73.984268,MediaTrust,60,$21M,1,1
-225,22,227,5d277baf5370f8e6fc94d97d,enterprise,USA,2008,"{'type': 'Point', 'coordinates': [-122.169472, 37.48413]}",37.48413,-122.169472,Hara,60,$45M,1,1
-226,118,210,5d277baf5370f8e6fc94d96c,games_video,USA,2008,"{'type': 'Point', 'coordinates': [-71.0680027, 42.3406534]}",42.3406534,-71.0680027,SCVNGR,60,$40.8M,1,1
-227,117,83,5d277baf5370f8e6fc94d8ed,software,USA,2005,"{'type': 'Point', 'coordinates': [-73.985878, 40.739794]}",40.739794,-73.985878,Phreesia,70,$42.7M,1,1
-228,116,94,5d277baf5370f8e6fc94d8f8,web,USA,2007,"{'type': 'Point', 'coordinates': [-73.983626, 40.743808]}",40.743808,-73.983626,Next New Networks,121,$27.1M,1,1
-229,115,147,5d277baf5370f8e6fc94d92d,web,CHN,2005,"{'type': 'Point', 'coordinates': [116.395833, 39.905556]}",39.905556,116.395833,Koolanoo Group,280,$32M,2,1
-230,114,200,5d277baf5370f8e6fc94d962,photo_video,USA,2007,"{'type': 'Point', 'coordinates': [-105.352174, 39.661171]}",39.661171,-105.352174,Qualvu,80,$2.6M,1,1
-231,112,34,5d277baf5370f8e6fc94d8bc,web,USA,2004,"{'type': 'Point', 'coordinates': [-122.394668, 37.790998]}",37.790998,-122.394668,BitTorrent,80,$40.8M,1,1
-232,110,82,5d277baf5370f8e6fc94d8ec,web,USA,2004,"{'type': 'Point', 'coordinates': [-122.307887, 37.54763]}",37.54763,-122.307887,SugarSync,60,$61M,1,1
-233,105,134,5d277baf5370f8e6fc94d920,advertising,GBR,2007,"{'type': 'Point', 'coordinates': [-0.1020894, 51.5212481]}",51.5212481,-0.1020894,Videoplaza,70,€15.9M,5,1
-234,101,194,5d277baf5370f8e6fc94d95c,software,USA,2007,"{'type': 'Point', 'coordinates': [-84.3675617, 33.7812614]}",33.7812614,-84.3675617,Vocalocity,175,$17.1M,1,1
-235,100,235,5d277baf5370f8e6fc94d985,software,GBR,2006,"{'type': 'Point', 'coordinates': [-0.1262362, 51.5001524]}",51.5001524,-0.1262362,FireScope,65,$9.91M,4,1
-236,98,237,5d277baf5370f8e6fc94d987,enterprise,USA,2007,"{'type': 'Point', 'coordinates': [-71.421059, 41.829229]}",41.829229,-71.421059,GreenBytes,54,$35M,1,1
-237,96,1,5d277baf5370f8e6fc94d89b,search,USA,2004,"{'type': 'Point', 'coordinates': [-122.402195, 37.786183]}",37.786183,-122.402195,Yelp,800,$90M,1,1
-238,119,47,5d277baf5370f8e6fc94d8c9,web,USA,2007,"{'type': 'Point', 'coordinates': [-122.083487, 37.386175]}",37.386175,-122.083487,Polyvore,73,$22.1M,1,1
+,index,_id,category_code,country_code,founded_year,geoloc,latitude,longitude,name,number_of_employees,total_money_raised,total_offices,nearest_offices
+0,143,5d277baf5370f8e6fc94d929,analytics,USA,2007,"{'type': 'Point', 'coordinates': [-122.4020593, 37.7797255]}",37.7797255,-122.4020593,Kontagent,80,$17.5M,1,36
+1,1,5d277baf5370f8e6fc94d89b,search,USA,2004,"{'type': 'Point', 'coordinates': [-122.402195, 37.786183]}",37.786183,-122.402195,Yelp,800,$90M,1,32
+2,0,5d277baf5370f8e6fc94d89a,search,USA,2006,"{'type': 'Point', 'coordinates': [-122.395289, 37.778613]}",37.778613,-122.395289,Powerset,60,$22.5M,1,28
+3,57,5d277baf5370f8e6fc94d8d3,software,USA,2003,"{'type': 'Point', 'coordinates': [-122.390945, 37.78274]}",37.78274,-122.390945,Splunk,500,$40M,1,28
+4,89,5d277baf5370f8e6fc94d8f3,advertising,USA,2008,"{'type': 'Point', 'coordinates': [-122.397759, 37.787183]}",37.787183,-122.397759,LiveRail,110,$12M,1,28
+5,170,5d277baf5370f8e6fc94d944,web,USA,2008,"{'type': 'Point', 'coordinates': [-122.3999719, 37.7870923]}",37.7870923,-122.3999719,Lolapps,65,$4M,2,28
+6,155,5d277baf5370f8e6fc94d935,web,USA,2008,"{'type': 'Point', 'coordinates': [-122.3999719, 37.7870923]}",37.7870923,-122.3999719,Lolapps,65,$4M,2,28
+7,20,5d277baf5370f8e6fc94d8ae,web,USA,2006,"{'type': 'Point', 'coordinates': [-122.39071, 37.779507]}",37.779507,-122.39071,Eventbrite,200,$140M,1,28
+8,146,5d277baf5370f8e6fc94d92c,web,USA,2007,"{'type': 'Point', 'coordinates': [-122.4013624, 37.7893215]}",37.7893215,-122.4013624,Huddler,52,$22.8M,1,27
+9,34,5d277baf5370f8e6fc94d8bc,web,USA,2004,"{'type': 'Point', 'coordinates': [-122.394668, 37.790998]}",37.790998,-122.394668,BitTorrent,80,$40.8M,1,27
+10,46,5d277baf5370f8e6fc94d8c8,ecommerce,USA,2005,"{'type': 'Point', 'coordinates': [-122.40414, 37.792968]}",37.792968,-122.40414,Blurb,150,$21.6M,1,27
+11,84,5d277baf5370f8e6fc94d8ee,design,USA,2008,"{'type': 'Point', 'coordinates': [-122.4005983, 37.7955307]}",37.7955307,-122.4005983,99designs,100,$35M,3,27
+12,25,5d277baf5370f8e6fc94d8b3,web,USA,2006,"{'type': 'Point', 'coordinates': [-122.400729, 37.795555]}",37.795555,-122.400729,Weebly,70,$670k,1,27
+13,21,5d277baf5370f8e6fc94d8af,games_video,USA,2003,"{'type': 'Point', 'coordinates': [-122.400558, 37.788668]}",37.788668,-122.400558,hi5,100,$52M,1,27
+14,125,5d277baf5370f8e6fc94d917,advertising,USA,2008,"{'type': 'Point', 'coordinates': [-122.4011706, 37.7911186]}",37.7911186,-122.4011706,Bizo,66,$28.5M,1,27
+15,33,5d277baf5370f8e6fc94d8bb,advertising,USA,2004,"{'type': 'Point', 'coordinates': [-122.401406, 37.78866]}",37.78866,-122.401406,Adknowledge,300,$248M,9,27
+16,150,5d277baf5370f8e6fc94d930,software,USA,2007,"{'type': 'Point', 'coordinates': [-122.4007846, 37.7899027]}",37.7899027,-122.4007846,Lyft,180,$82.5M,2,27
+17,158,5d277baf5370f8e6fc94d938,software,USA,2007,"{'type': 'Point', 'coordinates': [-122.4007846, 37.7899027]}",37.7899027,-122.4007846,Lyft,180,$82.5M,2,27
+18,178,5d277baf5370f8e6fc94d94c,enterprise,USA,2007,"{'type': 'Point', 'coordinates': [-122.4006831, 37.7898499]}",37.7898499,-122.4006831,Twilio,100,$104M,1,27
+19,191,5d277baf5370f8e6fc94d959,enterprise,USA,2005,"{'type': 'Point', 'coordinates': [-122.402844, 37.791402]}",37.791402,-122.402844,Clarabridge,150,$84.3M,3,27
+20,196,5d277baf5370f8e6fc94d95e,web,USA,2004,"{'type': 'Point', 'coordinates': [-122.3927145, 37.7887135]}",37.7887135,-122.3927145,Double Fusion,80,$59M,1,27
+21,4,5d277baf5370f8e6fc94d89e,enterprise,USA,2004,"{'type': 'Point', 'coordinates': [-122.4016144, 37.7891086]}",37.7891086,-122.4016144,KickApps,72,$32M,4,27
+22,217,5d277baf5370f8e6fc94d973,software,USA,2003,"{'type': 'Point', 'coordinates': [-122.398126, 37.791128]}",37.791128,-122.398126,Bomgar,150,$11M,5,27
+23,221,5d277baf5370f8e6fc94d977,enterprise,USA,2004,"{'type': 'Point', 'coordinates': [-122.404113, 37.789471]}",37.789471,-122.404113,Birst,150,$64M,1,27
+24,144,5d277baf5370f8e6fc94d92a,ecommerce,USA,2007,"{'type': 'Point', 'coordinates': [-122.403175, 37.797435]}",37.797435,-122.403175,Minted,115,$52.7M,1,25
+25,154,5d277baf5370f8e6fc94d934,analytics,USA,2006,"{'type': 'Point', 'coordinates': [-122.400346, 37.796843]}",37.796843,-122.400346,Demandbase,80,$33M,2,25
+26,160,5d277baf5370f8e6fc94d93a,analytics,USA,2006,"{'type': 'Point', 'coordinates': [-122.400346, 37.796843]}",37.796843,-122.400346,Demandbase,80,$33M,2,25
+27,148,5d277baf5370f8e6fc94d92e,games_video,USA,2008,"{'type': 'Point', 'coordinates': [-122.4015807, 37.7705096]}",37.7705096,-122.4015807,ngmoco,150,$44.8M,1,17
+28,31,5d277baf5370f8e6fc94d8b9,advertising,USA,2004,"{'type': 'Point', 'coordinates': [-73.992463, 40.748901]}",40.748901,-73.992463,Adknowledge,300,$248M,9,14
+29,151,5d277baf5370f8e6fc94d931,search,USA,2007,"{'type': 'Point', 'coordinates': [-73.982596, 40.746332]}",40.746332,-73.982596,Conductor,55,$33.6M,1,14
+30,104,5d277baf5370f8e6fc94d902,analytics,USA,2006,"{'type': 'Point', 'coordinates': [-73.986243, 40.745559]}",40.745559,-73.986243,Networked Insights,130,$38.4M,3,14
+31,238,5d277baf5370f8e6fc94d988,web,USA,2008,"{'type': 'Point', 'coordinates': [-73.9900984, 40.7450497]}",40.7450497,-73.9900984,StyleCaster,60,$5M,1,14
+32,3,5d277baf5370f8e6fc94d89d,enterprise,USA,2004,"{'type': 'Point', 'coordinates': [-73.9843328, 40.7516611]}",40.7516611,-73.9843328,KickApps,72,$32M,4,14
+33,232,5d277baf5370f8e6fc94d982,analytics,USA,2005,"{'type': 'Point', 'coordinates': [-73.985647, 40.754937]}",40.754937,-73.985647,OpTier,150,$77.5M,1,13
+34,83,5d277baf5370f8e6fc94d8ed,software,USA,2005,"{'type': 'Point', 'coordinates': [-73.985878, 40.739794]}",40.739794,-73.985878,Phreesia,70,$42.7M,1,13
+35,58,5d277baf5370f8e6fc94d8d4,advertising,USA,2005,"{'type': 'Point', 'coordinates': [-73.9918126, 40.742459]}",40.742459,-73.9918126,Yodle,1000,$40M,5,13
+36,78,5d277baf5370f8e6fc94d8e8,advertising,USA,2004,"{'type': 'Point', 'coordinates': [-73.984268, 40.743662]}",40.743662,-73.984268,MediaTrust,60,$21M,1,13
+37,141,5d277baf5370f8e6fc94d927,advertising,USA,2008,"{'type': 'Point', 'coordinates': [-73.986951, 40.756054]}",40.756054,-73.986951,Medialets,60,$28.4M,2,13
+38,94,5d277baf5370f8e6fc94d8f8,web,USA,2007,"{'type': 'Point', 'coordinates': [-73.983626, 40.743808]}",40.743808,-73.983626,Next New Networks,121,$27.1M,1,13
+39,126,5d277baf5370f8e6fc94d918,enterprise,USA,2005,"{'type': 'Point', 'coordinates': [-122.402021, 37.764169]}",37.764169,-122.402021,InsideView,150,$56.5M,1,12
+40,107,5d277baf5370f8e6fc94d905,ecommerce,USA,2007,"{'type': 'Point', 'coordinates': [-73.9954585, 40.7384997]}",40.7384997,-73.9954585,Bonobos,150,$74.7M,1,12
+41,28,5d277baf5370f8e6fc94d8b6,search,USA,2004,"{'type': 'Point', 'coordinates': [-122.406676, 37.766909]}",37.766909,-122.406676,Trulia,500,$255M,1,12
+42,14,5d277baf5370f8e6fc94d8a8,web,USA,2006,"{'type': 'Point', 'coordinates': [-122.406676, 37.766909]}",37.766909,-122.406676,Flixster,75,$7.18M,1,12
+43,111,5d277baf5370f8e6fc94d909,software,USA,2008,"{'type': 'Point', 'coordinates': [-122.419204, 37.775196]}",37.775196,-122.419204,GitHub,106,$100M,1,11
+44,70,5d277baf5370f8e6fc94d8e0,enterprise,USA,2007,"{'type': 'Point', 'coordinates': [-122.419204, 37.775196]}",37.775196,-122.419204,Heroku,80,$13M,1,11
+45,133,5d277baf5370f8e6fc94d91f,advertising,USA,2008,"{'type': 'Point', 'coordinates': [-122.419204, 37.775196]}",37.775196,-122.419204,Medialets,60,$28.4M,2,11
+46,92,5d277baf5370f8e6fc94d8f6,web,USA,2007,"{'type': 'Point', 'coordinates': [-122.419204, 37.775196]}",37.775196,-122.419204,Clickpass,90,$20k,1,11
+47,181,5d277baf5370f8e6fc94d94f,advertising,USA,2007,"{'type': 'Point', 'coordinates': [-73.9763479, 40.756799]}",40.756799,-73.9763479,MediaMath,125,$26.9M,1,11
+48,166,5d277baf5370f8e6fc94d940,ecommerce,USA,2003,"{'type': 'Point', 'coordinates': [-122.410752, 37.763293]}",37.763293,-122.410752,Vinfolio,68,$10.6M,1,10
+49,109,5d277baf5370f8e6fc94d907,web,USA,2004,"{'type': 'Point', 'coordinates': [-73.983754, 40.761855]}",40.761855,-73.983754,Cellfish,220,$60M,1,9
+50,99,5d277baf5370f8e6fc94d8fd,advertising,USA,2007,"{'type': 'Point', 'coordinates': [-122.288006, 37.555962]}",37.555962,-122.288006,Jivox,60,$25.6M,1,8
+51,153,5d277baf5370f8e6fc94d933,advertising,GBR,2006,"{'type': 'Point', 'coordinates': [-0.1230127, 51.5139758]}",51.5139758,-0.1230127,Intela,70,$13.3M,4,8
+52,159,5d277baf5370f8e6fc94d939,advertising,GBR,2006,"{'type': 'Point', 'coordinates': [-0.1230127, 51.5139758]}",51.5139758,-0.1230127,Intela,70,$13.3M,4,8
+53,36,5d277baf5370f8e6fc94d8be,advertising,GBR,2004,"{'type': 'Point', 'coordinates': [-0.1229212, 51.5114403]}",51.5114403,-0.1229212,Adknowledge,300,$248M,9,8
+54,73,5d277baf5370f8e6fc94d8e3,network_hosting,USA,2005,"{'type': 'Point', 'coordinates': [-122.300246, 37.553743]}",37.553743,-122.300246,fabrik,175,$51.3M,1,7
+55,43,5d277baf5370f8e6fc94d8c5,enterprise,USA,2003,"{'type': 'Point', 'coordinates': [-122.285714, 37.557637]}",37.557637,-122.285714,Zimbra,200,$14.5M,1,7
+56,11,5d277baf5370f8e6fc94d8a5,web,USA,2005,"{'type': 'Point', 'coordinates': [-122.301534, 37.553121]}",37.553121,-122.301534,Zvents,55,$31.2M,1,7
+57,142,5d277baf5370f8e6fc94d928,enterprise,USA,2006,"{'type': 'Point', 'coordinates': [-122.2997532, 37.5552776]}",37.5552776,-122.2997532,Appirio,500,$80.7M,1,7
+58,108,5d277baf5370f8e6fc94d906,software,USA,2006,"{'type': 'Point', 'coordinates': [-122.301385, 37.5583]}",37.5583,-122.301385,Marketo,260,$108M,1,7
+59,5,5d277baf5370f8e6fc94d89f,enterprise,GBR,2004,"{'type': 'Point', 'coordinates': [-0.1356235, 51.5094731]}",51.5094731,-0.1356235,KickApps,72,$32M,4,7
+60,17,5d277baf5370f8e6fc94d8ab,software,GBR,2006,"{'type': 'Point', 'coordinates': [-0.1394759, 51.5170385]}",51.5170385,-0.1394759,spigit,120,$55.6M,3,6
+61,82,5d277baf5370f8e6fc94d8ec,web,USA,2004,"{'type': 'Point', 'coordinates': [-122.307887, 37.54763]}",37.54763,-122.307887,SugarSync,60,$61M,1,6
+62,24,5d277baf5370f8e6fc94d8b2,web,USA,2004,"{'type': 'Point', 'coordinates': [-122.0727749, 37.3927975]}",37.3927975,-122.0727749,IMVU,150,$29M,1,6
+63,19,5d277baf5370f8e6fc94d8ad,games_video,USA,2007,"{'type': 'Point', 'coordinates': [-73.995625, 40.726155]}",40.726155,-73.995625,Livestream,120,$14.7M,1,6
+64,226,5d277baf5370f8e6fc94d97c,software,GBR,2003,"{'type': 'Point', 'coordinates': [-0.1424094, 51.5209358]}",51.5209358,-0.1424094,Tribold,106,$28.1M,1,6
+65,47,5d277baf5370f8e6fc94d8c9,web,USA,2007,"{'type': 'Point', 'coordinates': [-122.083487, 37.386175]}",37.386175,-122.083487,Polyvore,73,$22.1M,1,5
+66,149,5d277baf5370f8e6fc94d92f,network_hosting,USA,2004,"{'type': 'Point', 'coordinates': [-122.080843, 37.390918]}",37.390918,-122.080843,Centrify,160,$52M,2,5
+67,51,5d277baf5370f8e6fc94d8cd,enterprise,USA,2006,"{'type': 'Point', 'coordinates': [-122.158804, 37.43938]}",37.43938,-122.158804,Gigya,230,$69.8M,1,5
+68,197,5d277baf5370f8e6fc94d95f,software,USA,2003,"{'type': 'Point', 'coordinates': [-122.0887097, 37.4192309]}",37.4192309,-122.0887097,Adaptive Planning,65,$84.5M,1,5
+69,52,5d277baf5370f8e6fc94d8ce,advertising,USA,2006,"{'type': 'Point', 'coordinates': [-122.08276, 37.388095]}",37.388095,-122.08276,TrialPay,100,$55.8M,1,5
+70,235,5d277baf5370f8e6fc94d985,software,GBR,2006,"{'type': 'Point', 'coordinates': [-0.1262362, 51.5001524]}",51.5001524,-0.1262362,FireScope,65,$9.91M,4,5
+71,156,5d277baf5370f8e6fc94d936,network_hosting,USA,2004,"{'type': 'Point', 'coordinates': [-122.080843, 37.390918]}",37.390918,-122.080843,Centrify,160,$52M,2,5
+72,7,5d277baf5370f8e6fc94d8a1,mobile,USA,2005,"{'type': 'Point', 'coordinates': [-122.0899512, 37.4233896]}",37.4233896,-122.0899512,Jajah,110,$33M,1,5
+73,203,5d277baf5370f8e6fc94d965,advertising,USA,2007,"{'type': 'Point', 'coordinates': [-71.056605, 42.354257]}",42.354257,-71.056605,WordStream,90,$16.3M,1,4
+74,134,5d277baf5370f8e6fc94d920,advertising,GBR,2007,"{'type': 'Point', 'coordinates': [-0.1020894, 51.5212481]}",51.5212481,-0.1020894,Videoplaza,70,€15.9M,5,4
+75,75,5d277baf5370f8e6fc94d8e5,web,USA,2003,"{'type': 'Point', 'coordinates': [-74.006196, 40.725883]}",40.725883,-74.006196,TheLadders,110,$7.25M,1,4
+76,74,5d277baf5370f8e6fc94d8e4,games_video,USA,2011,"{'type': 'Point', 'coordinates': [-122.161523, 37.446823]}",37.446823,-122.161523,Social Gaming Network,100,$17.1M,2,4
+77,165,5d277baf5370f8e6fc94d93f,software,USA,2005,"{'type': 'Point', 'coordinates': [-122.161287, 37.444098]}",37.444098,-122.161287,Nexenta Systems,200,$49.9M,1,4
+78,12,5d277baf5370f8e6fc94d8a6,search,USA,2004,"{'type': 'Point', 'coordinates': [-122.0780632, 37.4219165]}",37.4219165,-122.0780632,Simply Hired,100,$22.3M,1,4
+79,173,5d277baf5370f8e6fc94d947,enterprise,USA,2006,"{'type': 'Point', 'coordinates': [-122.087417, 37.418616]}",37.418616,-122.087417,SOASTA,100,$63.6M,1,4
+80,8,5d277baf5370f8e6fc94d8a2,network_hosting,USA,2006,"{'type': 'Point', 'coordinates': [-71.076869, 42.350571]}",42.350571,-71.076869,Carbonite,68,$66M,1,4
+81,54,5d277baf5370f8e6fc94d8d0,web,USA,2005,"{'type': 'Point', 'coordinates': [-122.160671, 37.445326]}",37.445326,-122.160671,EchoSign,100,$8.5M,1,4
+82,198,5d277baf5370f8e6fc94d960,web,PAK,2003,"{'type': 'Point', 'coordinates': [-121.9303616, 37.3015115]}",37.3015115,-121.9303616,Naseeb Networks,100,$2M,1,3
+83,189,5d277baf5370f8e6fc94d957,software,USA,2003,"{'type': 'Point', 'coordinates': [-121.970505, 37.3821368]}",37.3821368,-121.970505,Packet Design,60,$2.8M,1,3
+84,205,5d277baf5370f8e6fc94d967,software,USA,2004,"{'type': 'Point', 'coordinates': [-122.331308, 47.611827]}",47.611827,-122.331308,Medio,90,$30M,1,3
+85,132,5d277baf5370f8e6fc94d91e,web,USA,2003,"{'type': 'Point', 'coordinates': [-122.332085, 47.601803]}",47.601803,-122.332085,Photobucket,100,$33.7M,1,3
+86,187,5d277baf5370f8e6fc94d955,analytics,USA,2008,"{'type': 'Point', 'coordinates': [-122.143368, 37.4280877]}",37.4280877,-122.143368,Silver Tail Systems,90,$22.1M,1,3
+87,201,5d277baf5370f8e6fc94d963,enterprise,USA,2009,"{'type': 'Point', 'coordinates': [-121.949417, 37.317735]}",37.317735,-121.949417,Talari Networks,60,$45.1M,2,3
+88,23,5d277baf5370f8e6fc94d8b1,network_hosting,USA,2004,"{'type': 'Point', 'coordinates': [-121.935688, 37.288974]}",37.288974,-121.935688,Hightail,200,$82.7M,1,3
+89,97,5d277baf5370f8e6fc94d8fb,software,USA,2007,"{'type': 'Point', 'coordinates': [-122.2709868, 37.5596277]}",37.5596277,-122.2709868,Zuora,250,$128M,1,3
+90,32,5d277baf5370f8e6fc94d8ba,advertising,USA,2004,"{'type': 'Point', 'coordinates': [-121.948399, 37.32052]}",37.32052,-121.948399,BlueLithium,135,$11.5M,1,3
+91,71,5d277baf5370f8e6fc94d8e1,web,USA,2006,"{'type': 'Point', 'coordinates': [-121.918319, 37.383844]}",37.383844,-121.918319,Mixbook,90,$11M,1,3
+92,120,5d277baf5370f8e6fc94d912,software,USA,2004,"{'type': 'Point', 'coordinates': [-122.103076, 37.431941]}",37.431941,-122.103076,Boardwalktech,75,$500k,1,3
+93,49,5d277baf5370f8e6fc94d8cb,mobile,USA,2003,"{'type': 'Point', 'coordinates': [-121.932962, 37.285133]}",37.285133,-121.932962,Firetide,100,$39.8M,1,3
+94,210,5d277baf5370f8e6fc94d96c,games_video,USA,2008,"{'type': 'Point', 'coordinates': [-71.0680027, 42.3406534]}",42.3406534,-71.0680027,SCVNGR,60,$40.8M,1,3
+95,169,5d277baf5370f8e6fc94d943,software,USA,2006,"{'type': 'Point', 'coordinates': [-74.001169, 40.718888]}",40.718888,-74.001169,ReverbNation,85,$5M,2,3
+96,218,5d277baf5370f8e6fc94d974,software,USA,2003,"{'type': 'Point', 'coordinates': [-77.3563279, 38.9594124]}",38.9594124,-77.3563279,Bomgar,150,$11M,5,3
+97,59,5d277baf5370f8e6fc94d8d5,enterprise,USA,2008,"{'type': 'Point', 'coordinates': [-71.05781, 42.35892]}",42.35892,-71.05781,Cloudant,70,$18.3M,1,3
+98,79,5d277baf5370f8e6fc94d8e9,software,USA,2005,"{'type': 'Point', 'coordinates': [-121.9479223, 37.3208403]}",37.3208403,-121.9479223,Bunchball,60,$12.5M,1,3
+99,214,5d277baf5370f8e6fc94d970,games_video,USA,2009,"{'type': 'Point', 'coordinates': [-122.3399782, 47.6103008]}",47.6103008,-122.3399782,Z2Live,130,$6.5M,1,3
+100,81,5d277baf5370f8e6fc94d8eb,software,USA,2004,"{'type': 'Point', 'coordinates': [-121.987661, 37.386774]}",37.386774,-121.987661,Evernote,280,$251M,1,3
+101,124,5d277baf5370f8e6fc94d916,analytics,USA,2003,"{'type': 'Point', 'coordinates': [-122.252115, 37.538418]}",37.538418,-122.252115,Vindicia,100,$37.6M,1,2
+102,171,5d277baf5370f8e6fc94d945,enterprise,USA,2003,"{'type': 'Point', 'coordinates': [-87.6371628, 41.8961282]}",41.8961282,-87.6371628,Model Metrics,120,$2.5M,1,2
+103,10,5d277baf5370f8e6fc94d8a4,network_hosting,USA,2005,"{'type': 'Point', 'coordinates': [-122.143701, 37.425801]}",37.425801,-122.143701,Box,950,$409M,1,2
+104,168,5d277baf5370f8e6fc94d942,enterprise,USA,2008,"{'type': 'Point', 'coordinates': [-122.3497546, 37.5783417]}",37.5783417,-122.3497546,Cloudera,230,$141M,1,2
+105,167,5d277baf5370f8e6fc94d941,enterprise,USA,2004,"{'type': 'Point', 'coordinates': [-121.967223, 37.369445]}",37.369445,-121.967223,Apigee,65,$107M,1,2
+106,161,5d277baf5370f8e6fc94d93b,web,CHN,2005,"{'type': 'Point', 'coordinates': [116.395833, 39.905556]}",39.905556,116.395833,Koolanoo Group,280,$32M,2,2
+107,123,5d277baf5370f8e6fc94d915,web,USA,2007,"{'type': 'Point', 'coordinates': [-122.227765, 37.492685]}",37.492685,-122.227765,GreenNote,65,$4.2M,1,2
+108,183,5d277baf5370f8e6fc94d951,mobile,USA,2004,"{'type': 'Point', 'coordinates': [-122.493561, 37.862592]}",37.862592,-122.493561,mFoundry,160,$40.3M,1,2
+109,13,5d277baf5370f8e6fc94d8a7,web,USA,2005,"{'type': 'Point', 'coordinates': [-122.178557, 37.479952]}",37.479952,-122.178557,oDesk,120,$44M,1,2
+110,152,5d277baf5370f8e6fc94d932,advertising,USA,2006,"{'type': 'Point', 'coordinates': [-105.278785, 40.058448]}",40.058448,-105.278785,Intela,70,$13.3M,4,2
+111,127,5d277baf5370f8e6fc94d919,enterprise,CAN,2004,"{'type': 'Point', 'coordinates': [-79.381254, 43.65101]}",43.65101,-79.381254,Blueprint Software Systems,100,$30.2M,1,2
+112,15,5d277baf5370f8e6fc94d8a9,software,USA,2006,"{'type': 'Point', 'coordinates': [-77.3592746, 38.9590083]}",38.9590083,-77.3592746,spigit,120,$55.6M,3,2
+113,188,5d277baf5370f8e6fc94d956,enterprise,USA,2006,"{'type': 'Point', 'coordinates': [-122.677001, 45.519179]}",45.519179,-122.677001,Elemental Technologies,130,$27.6M,1,2
+114,147,5d277baf5370f8e6fc94d92d,web,CHN,2005,"{'type': 'Point', 'coordinates': [116.395833, 39.905556]}",39.905556,116.395833,Koolanoo Group,280,$32M,2,2
+115,179,5d277baf5370f8e6fc94d94d,web,DNK,2007,"{'type': 'Point', 'coordinates': [12.5605372, 55.6739617]}",55.6739617,12.5605372,Trustpilot,100,$18.4M,1,2
+116,145,5d277baf5370f8e6fc94d92b,software,USA,2003,"{'type': 'Point', 'coordinates': [-122.422113, 37.630551]}",37.630551,-122.422113,Qumu,150,$24.8M,1,2
+117,140,5d277baf5370f8e6fc94d926,software,USA,2007,"{'type': 'Point', 'coordinates': [12.568116, 55.676294]}",55.676294,12.568116,Zendesk,400,$85.5M,1,2
+118,190,5d277baf5370f8e6fc94d958,advertising,USA,2006,"{'type': 'Point', 'coordinates': [-105.278785, 40.058448]}",40.058448,-105.278785,Intela,70,$13.3M,4,2
+119,102,5d277baf5370f8e6fc94d900,analytics,USA,2006,"{'type': 'Point', 'coordinates': [-87.634173, 41.879979]}",41.879979,-87.634173,Networked Insights,130,$38.4M,3,2
+120,192,5d277baf5370f8e6fc94d95a,enterprise,USA,2005,"{'type': 'Point', 'coordinates': [-77.340436, 38.946532]}",38.946532,-77.340436,Clarabridge,150,$84.3M,3,2
+121,208,5d277baf5370f8e6fc94d96a,software,USA,2007,"{'type': 'Point', 'coordinates': [-122.68038, 45.5309644]}",45.5309644,-122.68038,Jama Software,103,$13M,1,2
+122,37,5d277baf5370f8e6fc94d8bf,advertising,CAN,2004,"{'type': 'Point', 'coordinates': [-79.3953743, 43.6474554]}",43.6474554,-79.3953743,Adknowledge,300,$248M,9,2
+123,42,5d277baf5370f8e6fc94d8c4,games_video,SGP,2005,"{'type': 'Point', 'coordinates': [-122.343679, 37.580304]}",37.580304,-122.343679,mig33,100,$32.4M,1,2
+124,53,5d277baf5370f8e6fc94d8cf,advertising,USA,2006,"{'type': 'Point', 'coordinates': [-122.245087, 37.530893]}",37.530893,-122.245087,MyBuys,120,$40.8M,2,2
+125,55,5d277baf5370f8e6fc94d8d1,web,USA,2005,"{'type': 'Point', 'coordinates': [-121.97895, 37.399208]}",37.399208,-121.97895,Vobile,120,$10M,1,2
+126,227,5d277baf5370f8e6fc94d97d,enterprise,USA,2008,"{'type': 'Point', 'coordinates': [-122.169472, 37.48413]}",37.48413,-122.169472,Hara,60,$45M,1,2
+127,64,5d277baf5370f8e6fc94d8da,mobile,USA,2006,"{'type': 'Point', 'coordinates': [-122.230116, 37.486368]}",37.486368,-122.230116,Qik,60,$14.8M,1,2
+128,220,5d277baf5370f8e6fc94d976,enterprise,USA,2006,"{'type': 'Point', 'coordinates': [-122.0595623, 37.3973018]}",37.3973018,-122.0595623,Axcient,150,$64.2M,1,2
+129,72,5d277baf5370f8e6fc94d8e2,advertising,USA,2007,"{'type': 'Point', 'coordinates': [-118.243425, 34.052187]}",34.052187,-118.243425,GumGum,55,$10.8M,1,2
+130,172,5d277baf5370f8e6fc94d946,network_hosting,USA,2004,"{'type': 'Point', 'coordinates': [-121.93393, 37.391198]}",37.391198,-121.93393,A10 Networks,500,$118M,1,2
+131,106,5d277baf5370f8e6fc94d904,web,USA,2007,"{'type': 'Point', 'coordinates': [-122.500111, 37.868002]}",37.868002,-122.500111,Glassdoor,180,$91.5M,1,2
+132,199,5d277baf5370f8e6fc94d961,software,USA,2004,"{'type': 'Point', 'coordinates': [-121.915594, 37.367838]}",37.367838,-121.915594,Quantum Secure,160,$3.54M,1,2
+133,113,5d277baf5370f8e6fc94d90b,advertising,USA,2006,"{'type': 'Point', 'coordinates': [-122.424975, 37.629393]}",37.629393,-122.424975,Adify,120,$27M,1,2
+134,103,5d277baf5370f8e6fc94d901,ecommerce,USA,2010,"{'type': 'Point', 'coordinates': [-118.243425, 34.052187]}",34.052187,-118.243425,Magento,275,$22.5M,1,2
+135,176,5d277baf5370f8e6fc94d94a,software,USA,2006,"{'type': 'Point', 'coordinates': [-78.904075, 36.002893]}",36.002893,-78.904075,ReverbNation,85,$5M,2,1
+136,195,5d277baf5370f8e6fc94d95d,software,USA,2004,"{'type': 'Point', 'coordinates': [-81.666101, 41.513652]}",41.513652,-81.666101,SparkBase,51,$10.5M,1,1
+137,228,5d277baf5370f8e6fc94d97e,software,ISR,2004,"{'type': 'Point', 'coordinates': [34.8824253, 32.1980455]}",32.1980455,34.8824253,Pontis,105,$34.7M,2,1
+138,229,5d277baf5370f8e6fc94d97f,web,DEU,2005,"{'type': 'Point', 'coordinates': [13.3883606, 52.5092312]}",52.5092312,13.3883606,My-Hammer,70,$3.2M,1,1
+139,177,5d277baf5370f8e6fc94d94b,software,USA,2007,"{'type': 'Point', 'coordinates': [-84.058708, 34.070164]}",34.070164,-84.058708,Clearleap,75,$41.3M,1,1
+140,230,5d277baf5370f8e6fc94d980,software,ARG,2004,"{'type': 'Point', 'coordinates': [-58.4541925, -34.5631882]}",-34.5631882,-58.4541925,Pontis,105,$34.7M,2,1
+141,175,5d277baf5370f8e6fc94d949,software,DEU,2005,"{'type': 'Point', 'coordinates': [7.850863, 51.029415]}",51.029415,7.850863,Open-Xchange,100,$37.8M,3,1
+142,224,5d277baf5370f8e6fc94d97a,ecommerce,USA,2003,"{'type': 'Point', 'coordinates': [-80.3821092, 27.6476577]}",27.6476577,-80.3821092,OfferWire,65,$3.5M,2,1
+143,174,5d277baf5370f8e6fc94d948,software,USA,2005,"{'type': 'Point', 'coordinates': [-73.8625452, 41.0662835]}",41.0662835,-73.8625452,Open-Xchange,100,$37.8M,3,1
+144,231,5d277baf5370f8e6fc94d981,software,USA,2006,"{'type': 'Point', 'coordinates': [-118.012553, 33.664705]}",33.664705,-118.012553,FireScope,65,$9.91M,4,1
+145,194,5d277baf5370f8e6fc94d95c,software,USA,2007,"{'type': 'Point', 'coordinates': [-84.3675617, 33.7812614]}",33.7812614,-84.3675617,Vocalocity,175,$17.1M,1,1
+146,233,5d277baf5370f8e6fc94d983,software,USA,2006,"{'type': 'Point', 'coordinates': [-96.9274, 33.0353]}",33.0353,-96.9274,FireScope,65,$9.91M,4,1
+147,234,5d277baf5370f8e6fc94d984,software,AUS,2006,"{'type': 'Point', 'coordinates': [151.207114, -33.867139]}",-33.867139,151.207114,FireScope,65,$9.91M,4,1
+148,193,5d277baf5370f8e6fc94d95b,enterprise,GBR,2005,"{'type': 'Point', 'coordinates': [-0.2617681, 51.4918451]}",51.4918451,-0.2617681,Clarabridge,150,$84.3M,3,1
+149,236,5d277baf5370f8e6fc94d986,enterprise,USA,2006,"{'type': 'Point', 'coordinates': [-3.2151393, 55.9485591]}",55.9485591,-3.2151393,Maxymiser,250,£14M,1,1
+150,237,5d277baf5370f8e6fc94d987,enterprise,USA,2007,"{'type': 'Point', 'coordinates': [-71.421059, 41.829229]}",41.829229,-71.421059,GreenBytes,54,$35M,1,1
+151,225,5d277baf5370f8e6fc94d97b,ecommerce,GBR,2005,"{'type': 'Point', 'coordinates': [-0.172364, 51.543337]}",51.543337,-0.172364,Autoquake,100,$39.9M,1,1
+152,202,5d277baf5370f8e6fc94d964,enterprise,USA,2009,"{'type': 'Point', 'coordinates': [-78.8267112, 35.8535092]}",35.8535092,-78.8267112,Talari Networks,60,$45.1M,2,1
+153,223,5d277baf5370f8e6fc94d979,ecommerce,USA,2003,"{'type': 'Point', 'coordinates': [-84.300914, 34.046788]}",34.046788,-84.300914,OfferWire,65,$3.5M,2,1
+154,186,5d277baf5370f8e6fc94d954,games_video,USA,2003,"{'type': 'Point', 'coordinates': [-122.0216271, 37.4123706]}",37.4123706,-122.0216271,RGB Networks,125,$52M,1,1
+155,204,5d277baf5370f8e6fc94d966,software,USA,2005,"{'type': 'Point', 'coordinates': [-121.966395, 37.769205]}",37.769205,-121.966395,WANdisco,175,$45M,2,1
+156,206,5d277baf5370f8e6fc94d968,software,GBR,2005,"{'type': 'Point', 'coordinates': [-1.4629301, 53.3800107]}",53.3800107,-1.4629301,WANdisco,175,$45M,2,1
+157,207,5d277baf5370f8e6fc94d969,enterprise,USA,2006,"{'type': 'Point', 'coordinates': [-122.334732, 47.544341]}",47.544341,-122.334732,Skytap,200,$23M,1,1
+158,185,5d277baf5370f8e6fc94d953,enterprise,USA,2007,"{'type': 'Point', 'coordinates': [-73.782775, 42.856515]}",42.856515,-73.782775,Apprenda,51,$31M,1,1
+159,184,5d277baf5370f8e6fc94d952,software,USA,2003,"{'type': 'Point', 'coordinates': [-122.3545086, 47.6504518]}",47.6504518,-122.3545086,Tableau Software,92,$15M,1,1
+160,182,5d277baf5370f8e6fc94d950,search,CAN,2006,"{'type': 'Point', 'coordinates': [-122.9153695, 49.2599284]}",49.2599284,-122.9153695,Canpages,400,$110M,1,1
+161,209,5d277baf5370f8e6fc94d96b,advertising,USA,2005,"{'type': 'Point', 'coordinates': [-73.8731834, 41.0409527]}",41.0409527,-73.8731834,House Party,70,$9.95M,1,1
+162,211,5d277baf5370f8e6fc94d96d,mobile,USA,2006,"{'type': 'Point', 'coordinates': [-121.9780378, 37.552104]}",37.552104,-121.9780378,Mobifusion,51,$3.1M,1,1
+163,212,5d277baf5370f8e6fc94d96e,ecommerce,BRA,2009,"{'type': 'Point', 'coordinates': [-46.6388182, -23.5489433]}",-23.5489433,-46.6388182,Brandsclub,140,$17M,1,1
+164,213,5d277baf5370f8e6fc94d96f,mobile,USA,2007,"{'type': 'Point', 'coordinates': [-77.038605, 38.814329]}",38.814329,-77.038605,RideCharge,75,$8.6M,1,1
+165,180,5d277baf5370f8e6fc94d94e,software,DEU,2005,"{'type': 'Point', 'coordinates': [11.0823953, 49.4605351]}",49.4605351,11.0823953,Open-Xchange,100,$37.8M,3,1
+166,215,5d277baf5370f8e6fc94d971,software,USA,2003,"{'type': 'Point', 'coordinates': [-84.17173, 34.057519]}",34.057519,-84.17173,Bomgar,150,$11M,5,1
+167,216,5d277baf5370f8e6fc94d972,software,FRA,2003,"{'type': 'Point', 'coordinates': [2.2983373, 48.8752305]}",48.8752305,2.2983373,Bomgar,150,$11M,5,1
+168,6,5d277baf5370f8e6fc94d8a0,games_video,USA,2005,"{'type': 'Point', 'coordinates': [-122.206893, 37.484619]}",37.484619,-122.206893,RockYou,106,$136M,1,1
+169,219,5d277baf5370f8e6fc94d975,software,USA,2003,"{'type': 'Point', 'coordinates': [-90.1633006, 32.416174]}",32.416174,-90.1633006,Bomgar,150,$11M,5,1
+170,200,5d277baf5370f8e6fc94d962,photo_video,USA,2007,"{'type': 'Point', 'coordinates': [-105.352174, 39.661171]}",39.661171,-105.352174,Qualvu,80,$2.6M,1,1
+171,2,5d277baf5370f8e6fc94d89c,enterprise,USA,2004,"{'type': 'Point', 'coordinates': [-118.468707, 33.991101]}",33.991101,-118.468707,KickApps,72,$32M,4,1
+172,222,5d277baf5370f8e6fc94d978,advertising,USA,2006,"{'type': 'Point', 'coordinates': [-76.581864, 39.281734]}",39.281734,-76.581864,Millennial Media,137,$240M,1,1
+173,135,5d277baf5370f8e6fc94d921,advertising,DEU,2008,"{'type': 'Point', 'coordinates': [13.4124563, 52.5283614]}",52.5283614,13.4124563,plista,100,$3.8M,1,1
+174,164,5d277baf5370f8e6fc94d93e,web,USA,2006,"{'type': 'Point', 'coordinates': [-111.643179, 40.250096]}",40.250096,-111.643179,FamilyLink,60,$3.65M,1,1
+175,91,5d277baf5370f8e6fc94d8f5,web,USA,2006,"{'type': 'Point', 'coordinates': [-111.7276347, 40.3310529]}",40.3310529,-111.7276347,Footnote,66,$10M,1,1
+176,88,5d277baf5370f8e6fc94d8f2,design,DEU,2008,"{'type': 'Point', 'coordinates': [13.4469031, 52.4986199]}",52.4986199,13.4469031,99designs,100,$35M,3,1
+177,87,5d277baf5370f8e6fc94d8f1,software,USA,2005,"{'type': 'Point', 'coordinates': [-87.750643, 42.040851]}",42.040851,-87.750643,Ifbyphone,90,$30.3M,1,1
+178,86,5d277baf5370f8e6fc94d8f0,design,AUS,2008,"{'type': 'Point', 'coordinates': [144.9868546, -37.8026587]}",-37.8026587,144.9868546,99designs,100,$35M,3,1
+179,85,5d277baf5370f8e6fc94d8ef,web,USA,2006,"{'type': 'Point', 'coordinates': [-73.7258199, 40.8587524]}",40.8587524,-73.7258199,OLX,85,$28.5M,1,1
+180,26,5d277baf5370f8e6fc94d8b4,enterprise,USA,2004,"{'type': 'Point', 'coordinates': [-104.988123, 39.755092]}",39.755092,-104.988123,NewsGator,90,$39.3M,1,1
+181,80,5d277baf5370f8e6fc94d8ea,enterprise,USA,2006,"{'type': 'Point', 'coordinates': [-117.114827, 32.912063]}",32.912063,-117.114827,Covario,100,$16M,1,1
+182,77,5d277baf5370f8e6fc94d8e7,web,USA,2006,"{'type': 'Point', 'coordinates': [-82.3230981, 29.6502461]}",29.6502461,-82.3230981,Grooveshark,113,$4.44M,1,1
+183,76,5d277baf5370f8e6fc94d8e6,games_video,USA,2011,"{'type': 'Point', 'coordinates': [-118.4054182, 34.0698494]}",34.0698494,-118.4054182,Social Gaming Network,100,$17.1M,2,1
+184,69,5d277baf5370f8e6fc94d8df,network_hosting,DEU,2003,"{'type': 'Point', 'coordinates': [9.98793, 53.555554]}",53.555554,9.98793,XING,500,€5.7M,1,1
+185,68,5d277baf5370f8e6fc94d8de,ecommerce,USA,2005,"{'type': 'Point', 'coordinates': [-73.983268, 40.694731]}",40.694731,-73.983268,Etsy,300,$91.7M,1,1
+186,67,5d277baf5370f8e6fc94d8dd,advertising,USA,2005,"{'type': 'Point', 'coordinates': [-97.731249, 30.378658]}",30.378658,-97.731249,Yodle,1000,$40M,5,1
+187,66,5d277baf5370f8e6fc94d8dc,enterprise,USA,2007,"{'type': 'Point', 'coordinates': [-71.137784, 42.524527]}",42.524527,-71.137784,Acquia,400,$68.5M,1,1
+188,65,5d277baf5370f8e6fc94d8db,games_video,FRA,2003,"{'type': 'Point', 'coordinates': [2.213749, 46.227638]}",46.227638,2.213749,Kewego,65,$19.4M,1,1
+189,63,5d277baf5370f8e6fc94d8d9,software,USA,2006,"{'type': 'Point', 'coordinates': [-71.118487, 42.375392]}",42.375392,-71.118487,HubSpot,650,$131M,1,1
+190,62,5d277baf5370f8e6fc94d8d8,advertising,USA,2005,"{'type': 'Point', 'coordinates': [-111.924855, 33.464377]}",33.464377,-111.924855,Yodle,1000,$40M,5,1
+191,61,5d277baf5370f8e6fc94d8d7,advertising,USA,2005,"{'type': 'Point', 'coordinates': [-80.916109, 35.139441]}",35.139441,-80.916109,Yodle,1000,$40M,5,1
+192,60,5d277baf5370f8e6fc94d8d6,advertising,USA,2005,"{'type': 'Point', 'coordinates': [-84.03398, 34.105226]}",34.105226,-84.03398,Yodle,1000,$40M,5,1
+193,27,5d277baf5370f8e6fc94d8b5,advertising,USA,2005,"{'type': 'Point', 'coordinates': [-122.39323, 37.710677]}",37.710677,-122.39323,Greystripe,90,$17.6M,1,1
+194,56,5d277baf5370f8e6fc94d8d2,advertising,USA,2006,"{'type': 'Point', 'coordinates': [-83.733276, 42.277416]}",42.277416,-83.733276,MyBuys,120,$40.8M,2,1
+195,50,5d277baf5370f8e6fc94d8cc,software,USA,2004,"{'type': 'Point', 'coordinates': [-122.006539, 37.332271]}",37.332271,-122.006539,Baynote,80,$27.8M,1,1
+196,48,5d277baf5370f8e6fc94d8ca,web,USA,2005,"{'type': 'Point', 'coordinates': [-122.421344, 37.744274]}",37.744274,-122.421344,Automattic,200,$30.6M,1,1
+197,45,5d277baf5370f8e6fc94d8c7,biotech,USA,2006,"{'type': 'Point', 'coordinates': [-95.712891, 37.09024]}",37.09024,-95.712891,23andMe,80,$161M,1,1
+198,44,5d277baf5370f8e6fc94d8c6,mobile,ESP,2006,"{'type': 'Point', 'coordinates': [-3.632687, 40.530724]}",40.530724,-3.632687,Fon,100,€44M,1,1
+199,41,5d277baf5370f8e6fc94d8c3,games_video,USA,2007,"{'type': 'Point', 'coordinates': [-118.456806, 34.031276]}",34.031276,-118.456806,hulu,153,$100M,1,1
+200,40,5d277baf5370f8e6fc94d8c2,advertising,CHN,2004,"{'type': 'Point', 'coordinates': [121.4770384, 31.222622]}",31.222622,121.4770384,Adknowledge,300,$248M,9,1
+201,39,5d277baf5370f8e6fc94d8c1,advertising,FRA,2004,"{'type': 'Point', 'coordinates': [2.3797825, 48.8506065]}",48.8506065,2.3797825,Adknowledge,300,$248M,9,1
+202,38,5d277baf5370f8e6fc94d8c0,advertising,DEU,2004,"{'type': 'Point', 'coordinates': [11.5582609, 48.1635092]}",48.1635092,11.5582609,Adknowledge,300,$248M,9,1
+203,35,5d277baf5370f8e6fc94d8bd,advertising,USA,2004,"{'type': 'Point', 'coordinates': [-81.879069, 26.580095]}",26.580095,-81.879069,Adknowledge,300,$248M,9,1
+204,29,5d277baf5370f8e6fc94d8b7,advertising,USA,2006,"{'type': 'Point', 'coordinates': [-122.286493, 37.836957]}",37.836957,-122.286493,TubeMogul,230,$53.2M,1,1
+205,90,5d277baf5370f8e6fc94d8f4,software,USA,2004,"{'type': 'Point', 'coordinates': [-117.8587, 33.676444]}",33.676444,-117.8587,Kareo,250,$51.4M,1,1
+206,93,5d277baf5370f8e6fc94d8f7,enterprise,GBR,2006,"{'type': 'Point', 'coordinates': [-0.3016459, 51.4140631]}",51.4140631,-0.3016459,Vovici,100,$16.3M,2,1
+207,163,5d277baf5370f8e6fc94d93d,enterprise,USA,2007,"{'type': 'Point', 'coordinates': [-122.012808, 37.383526]}",37.383526,-122.012808,RiseSmart,100,$12.6M,1,1
+208,95,5d277baf5370f8e6fc94d8f9,enterprise,USA,2006,"{'type': 'Point', 'coordinates': [-77.434128, 38.983393]}",38.983393,-77.434128,Vovici,100,$16.3M,2,1
+209,162,5d277baf5370f8e6fc94d93c,advertising,USA,2007,"{'type': 'Point', 'coordinates': [-111.9396, 33.426418]}",33.426418,-111.9396,FetchBack,100,$1M,1,1
+210,9,5d277baf5370f8e6fc94d8a3,advertising,USA,2005,"{'type': 'Point', 'coordinates': [-122.325248, 37.561877]}",37.561877,-122.325248,Conduit,215,$110M,1,1
+211,157,5d277baf5370f8e6fc94d937,enterprise,USA,2005,"{'type': 'Point', 'coordinates': [-71.1404961, 42.3988457]}",42.3988457,-71.1404961,Dataupia,60,$41M,1,1
+212,16,5d277baf5370f8e6fc94d8aa,software,USA,2006,"{'type': 'Point', 'coordinates': [-121.8731805, 37.6637279]}",37.6637279,-121.8731805,spigit,120,$55.6M,3,1
+213,18,5d277baf5370f8e6fc94d8ac,software,USA,2005,"{'type': 'Point', 'coordinates': [-97.717667, 30.407545]}",30.407545,-97.717667,Bazaarvoice,600,$131M,1,1
+214,139,5d277baf5370f8e6fc94d925,advertising,SGP,2007,"{'type': 'Point', 'coordinates': [103.8508327, 1.2821008]}",1.2821008,103.8508327,Videoplaza,70,€15.9M,5,1
+215,138,5d277baf5370f8e6fc94d924,advertising,ESP,2007,"{'type': 'Point', 'coordinates': [-3.6923285, 40.4596242]}",40.4596242,-3.6923285,Videoplaza,70,€15.9M,5,1
+216,137,5d277baf5370f8e6fc94d923,advertising,DEU,2007,"{'type': 'Point', 'coordinates': [13.3787413, 52.5372765]}",52.5372765,13.3787413,Videoplaza,70,€15.9M,5,1
+217,136,5d277baf5370f8e6fc94d922,advertising,SWE,2007,"{'type': 'Point', 'coordinates': [18.0333601, 59.3351833]}",59.3351833,18.0333601,Videoplaza,70,€15.9M,5,1
+218,30,5d277baf5370f8e6fc94d8b8,advertising,USA,2004,"{'type': 'Point', 'coordinates': [-94.597896, 39.044694]}",39.044694,-94.597896,Adknowledge,300,$248M,9,1
+219,131,5d277baf5370f8e6fc94d91d,enterprise,USA,2004,"{'type': 'Point', 'coordinates': [-122.05074, 37.316653]}",37.316653,-122.05074,NextBio,75,$16.1M,1,1
+220,130,5d277baf5370f8e6fc94d91c,enterprise,USA,2003,"{'type': 'Point', 'coordinates': [-122.246867, 37.506272]}",37.506272,-122.246867,MarkLogic,240,$71.2M,1,1
+221,129,5d277baf5370f8e6fc94d91b,games_video,USA,2006,"{'type': 'Point', 'coordinates': [-73.957968, 40.720764]}",40.720764,-73.957968,VBS TV,100,$10M,1,1
+222,128,5d277baf5370f8e6fc94d91a,enterprise,BRA,2005,"{'type': 'Point', 'coordinates': [-43.954223, -19.815731]}",-19.815731,-43.954223,Samba Tech,60,$3M,1,1
+223,122,5d277baf5370f8e6fc94d914,analytics,USA,2004,"{'type': 'Point', 'coordinates': [-94.159452, 45.560899]}",45.560899,-94.159452,eBureau,55,$38M,1,1
+224,121,5d277baf5370f8e6fc94d913,advertising,USA,2007,"{'type': 'Point', 'coordinates': [-118.3826743, 34.0815238]}",34.0815238,-118.3826743,SocialVibe,80,$43.9M,1,1
+225,22,5d277baf5370f8e6fc94d8b0,mobile,SWE,2006,"{'type': 'Point', 'coordinates': [18.1582777, 59.3167843]}",59.3167843,18.1582777,Rebtel,75,$20M,1,1
+226,118,5d277baf5370f8e6fc94d910,games_video,DEU,2006,"{'type': 'Point', 'coordinates': [6.921546, 50.945289]}",50.945289,6.921546,sevenload,67,€25M,1,1
+227,117,5d277baf5370f8e6fc94d90f,advertising,USA,2008,"{'type': 'Point', 'coordinates': [6.124424, 46.223157]}",46.223157,6.124424,NewsCred,70,$21.8M,2,1
+228,116,5d277baf5370f8e6fc94d90e,software,USA,2004,"{'type': 'Point', 'coordinates': [-118.3952969, 33.9192583]}",33.9192583,-118.3952969,Velocify,125,$20.3M,1,1
+229,115,5d277baf5370f8e6fc94d90d,analytics,USA,2005,"{'type': 'Point', 'coordinates': [-122.111711, 37.371908]}",37.371908,-122.111711,Talend,400,$102M,1,1
+230,114,5d277baf5370f8e6fc94d90c,software,USA,2008,"{'type': 'Point', 'coordinates': [-119.306607, 37.269175]}",37.269175,-119.306607,New Relic,63,$175M,1,1
+231,112,5d277baf5370f8e6fc94d90a,games_video,USA,2007,"{'type': 'Point', 'coordinates': [-118.343791, 34.085749]}",34.085749,-118.343791,Modern Feed,123,$3M,1,1
+232,110,5d277baf5370f8e6fc94d908,ecommerce,ESP,2006,"{'type': 'Point', 'coordinates': [2.1299487, 41.388769]}",41.388769,2.1299487,Trovit,56,€600k,1,1
+233,105,5d277baf5370f8e6fc94d903,analytics,USA,2006,"{'type': 'Point', 'coordinates': [-72.5254318, 41.278528]}",41.278528,-72.5254318,Networked Insights,130,$38.4M,3,1
+234,101,5d277baf5370f8e6fc94d8ff,advertising,USA,2006,"{'type': 'Point', 'coordinates': [-111.780243, 40.358294]}",40.358294,-111.780243,OrangeSoda,160,$7.5M,1,1
+235,100,5d277baf5370f8e6fc94d8fe,web,USA,2006,"{'type': 'Point', 'coordinates': [-122.369676, 37.592584]}",37.592584,-122.369676,ScanCafe,350,$4M,1,1
+236,98,5d277baf5370f8e6fc94d8fc,advertising,USA,2003,"{'type': 'Point', 'coordinates': [-118.151542, 34.143885]}",34.143885,-118.151542,SupplyFrame,60,$15.5M,1,1
+237,96,5d277baf5370f8e6fc94d8fa,enterprise,USA,2005,"{'type': 'Point', 'coordinates': [-121.921532, 37.694202]}",37.694202,-121.921532,Workday,900,$175M,1,1
+238,119,5d277baf5370f8e6fc94d911,advertising,BGD,2008,"{'type': 'Point', 'coordinates': [90.407143, 23.709921]}",23.709921,90.407143,NewsCred,70,$21.8M,2,1

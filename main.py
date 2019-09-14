@@ -153,7 +153,7 @@ print("DONE")
 mongodb_selected = db.selected.find()
 df = pd.DataFrame(mongodb_selected)
 df.dropna(inplace = True)
-
+print("Hemos pasado de aquí")
 # With these two functions we aim to transform our geolocation data to list in order to make a geoquery to find how many
 # companies we have surrounding each og them in a given radius
 
@@ -174,7 +174,7 @@ def findNear(lista,rad):
     }))
 
 lista = cambiar(df["geoloc"]) # We apply function "cambiar"
-
+print("till here_1")
 # we now create a list (and then a column) of the number of
 # companies close to each of them in 1500 meters
 
@@ -184,7 +184,7 @@ def find_by_rad(radious):
         num = findNear(lista[e],radious)
         lst.append(len(num))
     return lst
-
+print("BEFORE GUARDADO")
 radious_1500 = 1500 # meters
 
 df["nearest_offices"] = find_by_rad(radious_1500)
@@ -206,10 +206,11 @@ radious_2000 = 2000 # meters
 df["nearest_offices"] = find_by_rad(radious_2000)
 df_2000 = df.sort_values(by = "nearest_offices", ascending = False)
 df_2000.reset_index(inplace=True)
-df_2000.to_csv("for_api_500.csv")
+df_2000.to_csv("for_api_2000.csv")
 
 # Now that we have the dataset created, we set our request 
 # to Google Maps Api (we are testing with 1500 m output)
+print("BEFORE API CALL_1")
 
 df_1500_api = df_1500
 
@@ -240,7 +241,7 @@ df_1500_api["buses_stations"] = features_search(df_1500_api, "transit_station", 
 df_1500_api["num_gym"] = features_search(df_1500_api, "gym", "gym") 
 
 # We standarize a ranking based on our client demands
-
+print("AFTER API")
 df_1500_api["ranking"] = df_1500_api['number_of_employees']*0.8 + df_1500_api['nearest_offices']*0.8 + df_1500_api["num_restaurants"]*0.6 + df_1500_api["car_rental"]*0.5 + df_1500_api["buses_stations"]*0.3 + df_1500_api["num_gym"]*0.3 
 
 print(df_1500_api.iloc[df_1500_api['ranking'].argmax()])
