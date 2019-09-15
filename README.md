@@ -1,5 +1,7 @@
 # Where is the best place to place my office?
 
+![My ideal office](https://github.com/fserrey/visualizing-real-world-data/blob/master/images/my_office.png)
+
 On this project, we aim to locate a proper place to develop our business finding the best environment for it. The goal is to place the **new company offices** in the best place for the company to grow. For this, we define the criteria we are following, a brand-new company in the gaming industry.
 
 The main points to consider are:
@@ -39,8 +41,6 @@ On this folder we sumarize all work done in two files that ends up in a html fil
  - functions.py 
 
 ### Outputs
-
-![My ideal office](https://raw.github.com/fserrey/visualizing-real-world-data/images/my_office.png)
 
 - CSV files corresponding to filter applied by radious incidence.
 - JSON file corresponding to dataset ready to be uploaded to Mongo
