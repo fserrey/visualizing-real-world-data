@@ -40,7 +40,7 @@ On this folder we sumarize all work done in two files that ends up in a html fil
 
 ### Outputs
 
-![My ideal office](https://github.com/fserrey/visualizing-real-world-data/images/my_office.png)
+![My ideal office](https://raw.githubusercontent.com/fserrey/visualizing-real-world-data/images/my_office.png)
 
 - CSV files corresponding to filter applied by radious incidence.
 - JSON file corresponding to dataset ready to be uploaded to Mongo
