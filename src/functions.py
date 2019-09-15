@@ -2,12 +2,11 @@ import os
 from pymongo import MongoClient
 import requests
 import pandas as pd
-from pandas.io.json import json_normalize
-import folium
-import webbrowser
-from folium.plugins import HeatMap
 from dotenv import load_dotenv
 load_dotenv()
+
+client = MongoClient('mongodb://localhost:27017/')
+db = client.companies
 
 def get_offices_locat2(lon, lat): # This function works on POINTS creation (for Mongodb)
     """
@@ -18,9 +17,8 @@ def get_offices_locat2(lon, lat): # This function works on POINTS creation (for 
             "coordinates":[lon, lat]
         }
     return offices_locat
-print("HOLA")
 
-def capital_search (m):
+def capital_search (serie=None):
     """
     This function search for money in the dataframe series. We try to locate key-letters to determine
     the money amount. We are only considering the money ponderated in $. We'll filter amount-wise.
@@ -29,17 +27,18 @@ def capital_search (m):
         "$":1, "M":2, "k":3, "K":4, "B":5
     }
     for key, numero in money.items(): 
-        if key in m: 
-            return m
+        if key in serie: 
+            return serie
     return None
 
-def cambiar (col):
+def cambiar (df, col):
     lista = []   
     for e in range(len(df)):
         lista.append(df.geoloc[e])
     return lista
 
-def findNear(lista,rad):
+
+def findNear(lista,rad=1500):
     return list(db.selected.find({
         "geoloc": {
          "$near": {
@@ -49,17 +48,21 @@ def findNear(lista,rad):
        }
     }))
 
-def find_by_rad(radious):
+def find_by_rad(df, lista, rad):
     lst =[] 
     for e in range(len(df)):
-        num = findNear(lista[e],radious)
+        num = findNear(lista[e], rad)
         lst.append(len(num))
-    return lst            
+    return lst             
+
+
+
 
 def features_search(df, type_, keywords):
     """
     This function call Google Places API in order to search specified criteria such as bus stations, restaurants, etc
     """
+    PLACES_KEY = os.environ["PLACES_KEY"]
     output_file = "json"
     radius = "1500"
     lst = []

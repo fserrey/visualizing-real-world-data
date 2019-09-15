@@ -5,9 +5,10 @@ import pandas as pd
 from pandas.io.json import json_normalize
 import folium
 import webbrowser
-from folium.plugins import HeatMap
 from dotenv import load_dotenv
+from src.functions import *
 load_dotenv()
+
 
 client = MongoClient('mongodb://localhost:27017/')
 db = client.companies
@@ -108,14 +109,6 @@ df = df.reindex(columns=['country_code', 'name', 'founded_year', 'category_code'
 # With this, we create a new column with the number of offices per company.
 # As we can see, we have checked that the normalization of the previous column of "offices" has finished properly
 df["total_offices"] = df["name"].map(df["name"].value_counts())
-
-def get_offices_locat2(lon, lat): # This function works on POINTS creation (for Mongodb)
-    offices_locat = {
-            "type":"Point",
-            "coordinates":[lon, lat]
-        }
-    return offices_locat
-
 df["geoloc"] = df.apply(lambda x: get_offices_locat2(x['longitude'], x['latitude']), axis=1)
 
 # Now, we clean the column number_of_employees to fill NaN values 
@@ -128,25 +121,12 @@ df = df[df["number_of_employees"]>50]
 
 # Also, we have been asked for the value of the company as a condition, therefore:
 df = df[df.total_money_raised != "$0"]
-
-
-def capital_search (m):
-    money = { # We are only considering the money ponderated in $. We'll filter amount-wise.
-        "$":1, "M":2, "k":3, "K":4, "B":5
-    }
-    for key, numero in money.items(): 
-        if key in m: 
-            return m
-    return None
-
-
 df["total_money_raised"] = df["total_money_raised"].apply(capital_search)
 
 # We save it as json file
-
 df.to_json('afines.json', orient="records")
 
-print("DONE")
+print("We now have our json file ready to be loaded as a new database")
 
 
 # Let's star working with our new dataset at mongo:
@@ -154,41 +134,21 @@ print("DONE")
 mongodb_selected = db.selected.find()
 df = pd.DataFrame(mongodb_selected)
 df.dropna(inplace = True)
-print("Hemos pasado de aquí")
+
 # With these two functions we aim to transform our geolocation data to list in order to make a geoquery to find how many
 # companies we have surrounding each og them in a given radius
 
-def cambiar (col):
-    lista = []   
-    for e in range(len(df)):
-        lista.append(df.geoloc[e])
-    return lista
+lista = cambiar(df, df["geoloc"]) # We apply function "cambiar"
 
-def findNear(lista,rad):
-    return list(db.selected.find({
-        "geoloc": {
-         "$near": {
-           "$geometry": lista,
-           "$maxDistance": rad,
-         }
-       }
-    }))
-
-lista = cambiar(df["geoloc"]) # We apply function "cambiar"
-print("till here_1")
 # we now create a list (and then a column) of the number of
 # companies close to each of them in 1500 meters
 
-def find_by_rad(radious):
-    lst =[] 
-    for e in range(len(df)):
-        num = findNear(lista[e],radious)
-        lst.append(len(num))
-    return lst
-print("BEFORE GUARDADO")
+
+print("Let's filter our dataframe by radious length")
+
 radious_1500 = 1500 # meters
 
-df["nearest_offices"] = find_by_rad(radious_1500)
+df["nearest_offices"] = find_by_rad(df,lista, radious_1500,)
 df_1500 = df.sort_values(by = "nearest_offices", ascending = False)
 df_1500.reset_index(inplace=True)
 # Let's save our df for 1500 meter  
@@ -197,44 +157,25 @@ df_1500.to_csv("for_api_1500.csv")
 
 radious_500 = 500 # meters
 
-df["nearest_offices"] = find_by_rad(radious_500)
+df["nearest_offices"] = find_by_rad(df, lista, radious_500)
 df_500 = df.sort_values(by = "nearest_offices", ascending = False)
 df_500.reset_index(inplace=True)
 df_500.to_csv("for_api_500.csv")
 
 radious_2000 = 2000 # meters
 
-df["nearest_offices"] = find_by_rad(radious_2000)
+df["nearest_offices"] = find_by_rad(df, lista, radious_500)
 df_2000 = df.sort_values(by = "nearest_offices", ascending = False)
 df_2000.reset_index(inplace=True)
 df_2000.to_csv("for_api_2000.csv")
 
 # Now that we have the dataset created, we set our request 
 # to Google Maps Api (we are testing with 1500 m output)
-print("BEFORE API CALL_1")
+
+print("we set our request to Google Maps Api")
+print("We search for car_rentals, restaurants, transit stations and gyms nearby on a 1500 m radious")
 
 df_1500_api = df_1500
-
-PLACES_KEY = os.environ["PLACES_KEY"]
-# We start our requests to determine car rentals locations
-
-# type = "car_rental" | "restaurant" | "transit_station" | "gym"
-# keywords = "car+rental" | "hamburguers" | "bus" | "gym"
-
-def features_search(df, type_, keywords):
-    output_file = "json"
-    radius = "1500"
-    lst = []
-
-    for i in range(len(df)):
-        coor = df["latitude"][i].astype(str) + ", " + df["longitude"][i].astype(str)
-        url = "https://maps.googleapis.com/maps/api/place/nearbysearch/"+ output_file +"?location="+coor +"&radius=" +radius+ "&type="+type_+"&keyword="+keywords + "&key="+ PLACES_KEY
-        res = requests.get(url)
-        data = res.json()
-        lst.append(len(data))
-    
-    return lst  
-    
 
 df_1500_api["car_rental"] = features_search(df_1500_api, "car_rental", "car+rental")  
 df_1500_api["num_restaurants"] = features_search(df_1500_api, "restaurant", "hamburguers")
@@ -242,7 +183,7 @@ df_1500_api["buses_stations"] = features_search(df_1500_api, "transit_station", 
 df_1500_api["num_gym"] = features_search(df_1500_api, "gym", "gym") 
 
 # We standarize a ranking based on our client demands
-print("AFTER API")
+
 df_1500_api["ranking"] = df_1500_api['number_of_employees']*0.8 + df_1500_api['nearest_offices']*0.8 + df_1500_api["num_restaurants"]*0.6 + df_1500_api["car_rental"]*0.5 + df_1500_api["buses_stations"]*0.3 + df_1500_api["num_gym"]*0.3 
 
 my_office = df_1500_api.iloc[df_1500_api['ranking'].argmax()]
