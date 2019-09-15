@@ -4,6 +4,7 @@ import requests
 import pandas as pd
 from pandas.io.json import json_normalize
 import folium
+import webbrowser
 from folium.plugins import HeatMap
 from dotenv import load_dotenv
 load_dotenv()
@@ -244,4 +245,19 @@ df_1500_api["num_gym"] = features_search(df_1500_api, "gym", "gym")
 print("AFTER API")
 df_1500_api["ranking"] = df_1500_api['number_of_employees']*0.8 + df_1500_api['nearest_offices']*0.8 + df_1500_api["num_restaurants"]*0.6 + df_1500_api["car_rental"]*0.5 + df_1500_api["buses_stations"]*0.3 + df_1500_api["num_gym"]*0.3 
 
-print(df_1500_api.iloc[df_1500_api['ranking'].argmax()])
+my_office = df_1500_api.iloc[df_1500_api['ranking'].argmax()]
+
+coordinates = [ my_office.latitude, my_office.longitude ]
+mapa = folium.Map(
+        location=coordinates,
+        zoom_start=15
+    )
+folium.Circle(location = coordinates, radius = 500).add_to(mapa)
+folium.Marker(coordinates, popup='<b>I should place my office near here!/b>').add_to(mapa)
+
+
+filepath = '/home/slimbook/git-repos/visualizing-real-world-data/mapa.html'
+
+mapa.save(filepath)
+
+webbrowser.open('file://' + filepath)
