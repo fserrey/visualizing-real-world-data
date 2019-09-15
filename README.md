@@ -1,4 +1,4 @@
-# Where is the best place to place my office?
+# Finding the right place for your office
 
 ![My ideal office](https://github.com/fserrey/visualizing-real-world-data/blob/master/images/my_office.png)
 
