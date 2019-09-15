@@ -26,14 +26,19 @@ The main points to consider are:
     - The CEO is Vegan
     
     
-## What have I done?
+## Folders
 
-### Main files
+### Notebooks
  - main_1_cleaning.ipynb
  - main_2_geo.ipynb
  - main_3_api_maps.ipynb
 
-As there are several approaches to be taken, I am sure that this procedure can be enhanced. However, so far I did the following:\
+### src
+On this folder we sumarize all work done in two files that ends up in a html file that shows us where the office should be.
+ - main.py
+ - functions.py 
+
+## Steps:\
 - **1** Filtering dataset through MongoDB query
 - **2** Cleaning data using pandas
 - **3** Transform latitude and longitude of the selected locations into geopoints
